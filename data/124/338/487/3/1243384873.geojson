@@ -45,7 +45,7 @@
         "wk:page":"Ksar_el_Khali"
     },
     "wof:country":"MR",
-    "wof:geomhash":"dd07b0dd216389882ae3083b195a4355",
+    "wof:geomhash":"258e1a6677de97b09c386936afe3ef78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     -11.62501,
     20.93302000000001
 ],
-  "geometry": {"coordinates":[-11.62501,20.93302000000001],"type":"Point"}
+  "geometry": {"coordinates":[-11.62501,20.93302],"type":"Point"}
 }

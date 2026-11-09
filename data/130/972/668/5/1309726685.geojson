@@ -42,7 +42,7 @@
         "wk:page":"La_Batterie"
     },
     "wof:country":"MR",
-    "wof:geomhash":"baf49daa06b490b16b0a7baae30388cc",
+    "wof:geomhash":"f7f8415faea333857a98d7d338ccdd34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -17.06667,
     20.86667000000001
 ],
-  "geometry": {"coordinates":[-17.06667,20.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-17.06667,20.86667],"type":"Point"}
 }

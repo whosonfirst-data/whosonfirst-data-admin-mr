@@ -48,7 +48,7 @@
         "wk:page":"Legat"
     },
     "wof:country":"MR",
-    "wof:geomhash":"2ec0be69b056b9c84e71fb880457d44b",
+    "wof:geomhash":"00ca902d5ed61c14041a6ad6a2d820be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     -14.82921,
     16.75462000000001
 ],
-  "geometry": {"coordinates":[-14.82921,16.75462000000001],"type":"Point"}
+  "geometry": {"coordinates":[-14.82921,16.75462],"type":"Point"}
 }

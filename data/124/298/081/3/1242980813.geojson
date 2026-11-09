@@ -33,7 +33,7 @@
         "wk:page":"Portendick"
     },
     "wof:country":"MR",
-    "wof:geomhash":"b6b351e58344815b3bb13418494c5bfb",
+    "wof:geomhash":"55e80052e85999093604877a3be67455",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,5 +58,5 @@
     -16.11667000000001,
     18.58333
 ],
-  "geometry": {"coordinates":[-16.11667000000001,18.58333],"type":"Point"}
+  "geometry": {"coordinates":[-16.11667,18.58333],"type":"Point"}
 }
