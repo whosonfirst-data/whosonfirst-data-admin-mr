@@ -177,12 +177,6 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c Trarza"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7279\u62c9\u624e\u6c99\u6f20"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7279\u62c9\u672d\u6c99\u6f20"
-    ],
     "name:zho_x_preferred":[
         "\u7279\u62c9\u624e\u7701"
     ],
@@ -311,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1695884778,
+    "wof:lastmodified":1794999722,
     "wof:name":"Trarza",
     "wof:parent_id":85632679,
     "wof:placetype":"region",
