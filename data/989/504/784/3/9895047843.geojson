@@ -1,0 +1,74 @@
+{
+  "id": 9895047843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99376,15.84148,-8.99376,15.84148",
+    "geom:latitude":15.84148,
+    "geom:longitude":-8.99376,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524350: name \"Oum Tr\u00e9a Elguebliya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524350"
+        },
+        {
+            "citation":"GeoNames populated place 13524350: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524350"
+        },
+        {
+            "citation":"GeoNames populated place 13524350: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524350"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694947 (Kobeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524350
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a0e72f6f974a9003a385b143425c2569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":9895047843,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895047843,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Tr\u00e9a Elguebliya",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99376,
+    15.84148,
+    -8.99376,
+    15.84148
+],
+  "geometry": {"coordinates":[-8.99376,15.84148],"type":"Point"}
+}

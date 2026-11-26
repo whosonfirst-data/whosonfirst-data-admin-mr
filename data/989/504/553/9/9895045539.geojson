@@ -1,0 +1,74 @@
+{
+  "id": 9895045539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08455,15.81017,-7.08455,15.81017",
+    "geom:latitude":15.81017,
+    "geom:longitude":-7.08455,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355690: name \"Krae Elbarka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355690"
+        },
+        {
+            "citation":"GeoNames populated place 13355690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355690"
+        },
+        {
+            "citation":"GeoNames populated place 13355690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355690"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355690
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dffa115dd0225897cbf204a70b4f876e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895045539,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045539,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Krae Elbarka",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08455,
+    15.81017,
+    -7.08455,
+    15.81017
+],
+  "geometry": {"coordinates":[-7.08455,15.81017],"type":"Point"}
+}

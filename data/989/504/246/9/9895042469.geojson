@@ -1,0 +1,74 @@
+{
+  "id": 9895042469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.09736,17.46839,-12.09736,17.46839",
+    "geom:latitude":17.46839,
+    "geom:longitude":-12.09736,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13252856: name \"Gleita Vounti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13252856"
+        },
+        {
+            "citation":"GeoNames populated place 13252856: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13252856"
+        },
+        {
+            "citation":"GeoNames populated place 13252856: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13252856"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695647 (Moudjeria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13252856
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c68e3193951e0bdb46ba52cad80dfa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":9895042469,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042469,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Gleita Vounti",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.09736,
+    17.46839,
+    -12.09736,
+    17.46839
+],
+  "geometry": {"coordinates":[-12.09736,17.46839],"type":"Point"}
+}

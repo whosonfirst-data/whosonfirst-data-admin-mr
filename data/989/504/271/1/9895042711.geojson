@@ -1,0 +1,74 @@
+{
+  "id": 9895042711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.40675,17.65371,-11.40675,17.65371",
+    "geom:latitude":17.65371,
+    "geom:longitude":-11.40675,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253150: name \"Eguerj Othmane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253150"
+        },
+        {
+            "citation":"GeoNames populated place 13253150: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253150"
+        },
+        {
+            "citation":"GeoNames populated place 13253150: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253150"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695577 (Boumdeid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253150
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"18744a669c6bd92be2212c85776da2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695577,
+            "locality_id":9895042711,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042711,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Eguerj Othmane",
+    "wof:parent_id":1091695577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.40675,
+    17.65371,
+    -11.40675,
+    17.65371
+],
+  "geometry": {"coordinates":[-11.40675,17.65371],"type":"Point"}
+}

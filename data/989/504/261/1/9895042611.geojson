@@ -1,0 +1,74 @@
+{
+  "id": 9895042611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.39981,17.22079,-12.39981,17.22079",
+    "geom:latitude":17.22079,
+    "geom:longitude":-12.39981,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253029: name \"Siyassa Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253029"
+        },
+        {
+            "citation":"GeoNames populated place 13253029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253029"
+        },
+        {
+            "citation":"GeoNames populated place 13253029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253029"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695619 (Maghta Lahjar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674863,
+        102191573,
+        1091695619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253029
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"cb05db1f8998786804aececd7fbef3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695619,
+            "locality_id":9895042611,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":9895042611,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Siyassa Deux",
+    "wof:parent_id":1091695619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.39981,
+    17.22079,
+    -12.39981,
+    17.22079
+],
+  "geometry": {"coordinates":[-12.39981,17.22079],"type":"Point"}
+}

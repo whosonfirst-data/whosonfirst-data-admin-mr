@@ -1,0 +1,74 @@
+{
+  "id": 9895043576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.92449,16.34051,-10.92449,16.34051",
+    "geom:latitude":16.34051,
+    "geom:longitude":-10.92449,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13259147: name \"Aine Elvila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13259147"
+        },
+        {
+            "citation":"GeoNames populated place 13259147: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13259147"
+        },
+        {
+            "citation":"GeoNames populated place 13259147: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13259147"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13259147
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f44511d3b3a0d55450493cf4ca90eca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043576,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043576,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Aine Elvila",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.92449,
+    16.34051,
+    -10.92449,
+    16.34051
+],
+  "geometry": {"coordinates":[-10.92449,16.34051],"type":"Point"}
+}

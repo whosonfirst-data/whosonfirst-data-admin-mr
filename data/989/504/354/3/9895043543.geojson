@@ -1,0 +1,74 @@
+{
+  "id": 9895043543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.41512,16.46956,-12.41512,16.46956",
+    "geom:latitude":16.46956,
+    "geom:longitude":-12.41512,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13259111: name \"Boubaghja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13259111"
+        },
+        {
+            "citation":"GeoNames populated place 13259111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13259111"
+        },
+        {
+            "citation":"GeoNames populated place 13259111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13259111"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13259111
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"282e6506b942a73263baed0818489d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043543,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043543,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Boubaghja",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.41512,
+    16.46956,
+    -12.41512,
+    16.46956
+],
+  "geometry": {"coordinates":[-12.41512,16.46956],"type":"Point"}
+}

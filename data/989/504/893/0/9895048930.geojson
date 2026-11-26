@@ -1,0 +1,74 @@
+{
+  "id": 9895048930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65234,16.91385,-9.65234,16.91385",
+    "geom:latitude":16.91385,
+    "geom:longitude":-9.65234,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525453: name \"Ehel Sidi Ould Mohamed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525453"
+        },
+        {
+            "citation":"GeoNames populated place 13525453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525453"
+        },
+        {
+            "citation":"GeoNames populated place 13525453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525453"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525453
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"976c3e50734745fc57d7e48304a03835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048930,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048930,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Sidi Ould Mohamed",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65234,
+    16.91385,
+    -9.65234,
+    16.91385
+],
+  "geometry": {"coordinates":[-9.65234,16.91385],"type":"Point"}
+}

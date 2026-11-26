@@ -1,0 +1,74 @@
+{
+  "id": 9895044416,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.65118,15.21109,-12.65118,15.21109",
+    "geom:latitude":15.21109,
+    "geom:longitude":-12.65118,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350424: name \"Kadiel Zakarya Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350424"
+        },
+        {
+            "citation":"GeoNames populated place 13350424: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350424"
+        },
+        {
+            "citation":"GeoNames populated place 13350424: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350424"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694791 (Selibaby), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350424
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bba7f09364f9f8cd119528bef521a489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":9895044416,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044416,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kadiel Zakarya Un",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.65118,
+    15.21109,
+    -12.65118,
+    15.21109
+],
+  "geometry": {"coordinates":[-12.65118,15.21109],"type":"Point"}
+}

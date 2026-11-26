@@ -1,0 +1,74 @@
+{
+  "id": 9895047672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.78394,17.20982,-15.78394,17.20982",
+    "geom:latitude":17.20982,
+    "geom:longitude":-15.78394,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523643: name \"Mohamed Ould Levdhal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523643"
+        },
+        {
+            "citation":"GeoNames populated place 13523643: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523643"
+        },
+        {
+            "citation":"GeoNames populated place 13523643: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523643"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695465 (Mederdra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523643
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ac50e23efddd581bc14b98e078b83c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":9895047672,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047672,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mohamed Ould Levdhal",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.78394,
+    17.20982,
+    -15.78394,
+    17.20982
+],
+  "geometry": {"coordinates":[-15.78394,17.20982],"type":"Point"}
+}

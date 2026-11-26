@@ -1,0 +1,74 @@
+{
+  "id": 9895043980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.16675,15.64589,-13.16675,15.64589",
+    "geom:latitude":15.64589,
+    "geom:longitude":-13.16675,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316551: name \"Elmouzdeliva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316551"
+        },
+        {
+            "citation":"GeoNames populated place 13316551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316551"
+        },
+        {
+            "citation":"GeoNames populated place 13316551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316551"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694955 (Kaedi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316551
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"afe367f09496824a708f3593df3e9181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":9895043980,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043980,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmouzdeliva",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.16675,
+    15.64589,
+    -13.16675,
+    15.64589
+],
+  "geometry": {"coordinates":[-13.16675,15.64589],"type":"Point"}
+}

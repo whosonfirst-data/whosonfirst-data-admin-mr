@@ -1,0 +1,74 @@
+{
+  "id": 9895046871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96426,20.24841,-12.96426,20.24841",
+    "geom:latitude":20.24841,
+    "geom:longitude":-12.96426,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520608: name \"Varess\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520608"
+        },
+        {
+            "citation":"GeoNames populated place 13520608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520608"
+        },
+        {
+            "citation":"GeoNames populated place 13520608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520608"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695825 (Aoujeft), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520608
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fd33c9dfc5f8f86301676615ca2da376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":9895046871,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046871,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Varess",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96426,
+    20.24841,
+    -12.96426,
+    20.24841
+],
+  "geometry": {"coordinates":[-12.96426,20.24841],"type":"Point"}
+}

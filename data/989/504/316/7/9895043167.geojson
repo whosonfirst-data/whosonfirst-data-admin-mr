@@ -1,0 +1,74 @@
+{
+  "id": 9895043167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.56451,16.41272,-11.56451,16.41272",
+    "geom:latitude":16.41272,
+    "geom:longitude":-11.56451,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258683: name \"Elmebrouk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258683"
+        },
+        {
+            "citation":"GeoNames populated place 13258683: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258683"
+        },
+        {
+            "citation":"GeoNames populated place 13258683: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258683"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258683
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a434405a566601ef5f84ed604f1501db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043167,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043167,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmebrouk",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.56451,
+    16.41272,
+    -11.56451,
+    16.41272
+],
+  "geometry": {"coordinates":[-11.56451,16.41272],"type":"Point"}
+}

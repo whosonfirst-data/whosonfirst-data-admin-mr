@@ -1,0 +1,74 @@
+{
+  "id": 9895046884,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.01128,20.6827,-13.01128,20.6827",
+    "geom:latitude":20.6827,
+    "geom:longitude":-13.01128,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520621: name \"Tenzeyr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520621"
+        },
+        {
+            "citation":"GeoNames populated place 13520621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520621"
+        },
+        {
+            "citation":"GeoNames populated place 13520621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520621
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f315389f5d7598cc6e8dc10dc4d886c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046884,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046884,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tenzeyr",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.01128,
+    20.6827,
+    -13.01128,
+    20.6827
+],
+  "geometry": {"coordinates":[-13.01128,20.6827],"type":"Point"}
+}

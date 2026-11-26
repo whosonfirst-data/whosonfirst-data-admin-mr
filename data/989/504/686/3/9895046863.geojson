@@ -1,0 +1,74 @@
+{
+  "id": 9895046863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85117,20.61221,-12.85117,20.61221",
+    "geom:latitude":20.61221,
+    "geom:longitude":-12.85117,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520600: name \"Tevnek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520600"
+        },
+        {
+            "citation":"GeoNames populated place 13520600: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520600"
+        },
+        {
+            "citation":"GeoNames populated place 13520600: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520600"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520600
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"29afe9904a67806fd8de9b5604625249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046863,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046863,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tevnek",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85117,
+    20.61221,
+    -12.85117,
+    20.61221
+],
+  "geometry": {"coordinates":[-12.85117,20.61221],"type":"Point"}
+}

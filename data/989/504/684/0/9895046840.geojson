@@ -1,0 +1,74 @@
+{
+  "id": 9895046840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.15005,20.08865,-13.15005,20.08865",
+    "geom:latitude":20.08865,
+    "geom:longitude":-13.15005,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520577: name \"Techeyatt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520577"
+        },
+        {
+            "citation":"GeoNames populated place 13520577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520577"
+        },
+        {
+            "citation":"GeoNames populated place 13520577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520577"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695825 (Aoujeft), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520577
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"817ff128ba40f6eae785122bf141e0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":9895046840,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046840,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Techeyatt",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.15005,
+    20.08865,
+    -13.15005,
+    20.08865
+],
+  "geometry": {"coordinates":[-13.15005,20.08865],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895045863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3578,17.01079,-7.3578,17.01079",
+    "geom:latitude":17.01079,
+    "geom:longitude":-7.3578,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356034: name \"Bemoura Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356034"
+        },
+        {
+            "citation":"GeoNames populated place 13356034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356034"
+        },
+        {
+            "citation":"GeoNames populated place 13356034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356034"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696039 (Oualata), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356034
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ca1cffe25da16802c03fd5f848aa9b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":9895045863,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045863,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bemoura Un",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3578,
+    17.01079,
+    -7.3578,
+    17.01079
+],
+  "geometry": {"coordinates":[-7.3578,17.01079],"type":"Point"}
+}

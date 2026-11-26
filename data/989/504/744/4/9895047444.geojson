@@ -1,0 +1,74 @@
+{
+  "id": 9895047444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.26766,16.9115,-15.26766,16.9115",
+    "geom:latitude":16.9115,
+    "geom:longitude":-15.26766,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523412: name \"Chiva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523412"
+        },
+        {
+            "citation":"GeoNames populated place 13523412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523412"
+        },
+        {
+            "citation":"GeoNames populated place 13523412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523412"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695385 (R'kiz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523412
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e2aade6287b4330f40496da06cb19382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695385,
+            "locality_id":9895047444,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047444,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Chiva",
+    "wof:parent_id":1091695385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.26766,
+    16.9115,
+    -15.26766,
+    16.9115
+],
+  "geometry": {"coordinates":[-15.26766,16.9115],"type":"Point"}
+}

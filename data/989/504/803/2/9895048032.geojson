@@ -1,0 +1,74 @@
+{
+  "id": 9895048032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.54685,16.85785,-10.54685,16.85785",
+    "geom:latitude":16.85785,
+    "geom:longitude":-10.54685,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524543: name \"Elmevlek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524543"
+        },
+        {
+            "citation":"GeoNames populated place 13524543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524543"
+        },
+        {
+            "citation":"GeoNames populated place 13524543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524543"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695497 (Tamchekett), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524543
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bfa09e8d7f2360483643e8193afc3f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695497,
+            "locality_id":9895048032,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048032,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmevlek",
+    "wof:parent_id":1091695497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.54685,
+    16.85785,
+    -10.54685,
+    16.85785
+],
+  "geometry": {"coordinates":[-10.54685,16.85785],"type":"Point"}
+}

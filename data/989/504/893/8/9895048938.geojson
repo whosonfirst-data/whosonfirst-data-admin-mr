@@ -1,0 +1,74 @@
+{
+  "id": 9895048938,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33334,16.52165,-9.33334,16.52165",
+    "geom:latitude":16.52165,
+    "geom:longitude":-9.33334,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525461: name \"Teyarett\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525461"
+        },
+        {
+            "citation":"GeoNames populated place 13525461: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525461"
+        },
+        {
+            "citation":"GeoNames populated place 13525461: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525461"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525461
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9bb6c5b3b89f9ce71d42f7773dd0e004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048938,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048938,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Teyarett",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33334,
+    16.52165,
+    -9.33334,
+    16.52165
+],
+  "geometry": {"coordinates":[-9.33334,16.52165],"type":"Point"}
+}

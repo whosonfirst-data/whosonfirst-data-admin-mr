@@ -1,0 +1,74 @@
+{
+  "id": 9895047054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.52757,16.74745,-15.52757,16.74745",
+    "geom:latitude":16.74745,
+    "geom:longitude":-15.52757,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523013: name \"Keyou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523013"
+        },
+        {
+            "citation":"GeoNames populated place 13523013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523013"
+        },
+        {
+            "citation":"GeoNames populated place 13523013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523013"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695159 (Rosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523013
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"76dea577c469be74b91484d9f499e4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":9895047054,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047054,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Keyou",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.52757,
+    16.74745,
+    -15.52757,
+    16.74745
+],
+  "geometry": {"coordinates":[-15.52757,16.74745],"type":"Point"}
+}

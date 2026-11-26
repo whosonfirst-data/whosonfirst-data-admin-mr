@@ -1,0 +1,74 @@
+{
+  "id": 9895045632,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75013,16.44468,-7.75013,16.44468",
+    "geom:latitude":16.44468,
+    "geom:longitude":-7.75013,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355793: name \"Souleimaniya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355793"
+        },
+        {
+            "citation":"GeoNames populated place 13355793: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355793"
+        },
+        {
+            "citation":"GeoNames populated place 13355793: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355793"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695295 (Nema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355793
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fd98f50b1b41eb64d562730a98ed958d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":9895045632,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045632,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Souleimaniya",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75013,
+    16.44468,
+    -7.75013,
+    16.44468
+],
+  "geometry": {"coordinates":[-7.75013,16.44468],"type":"Point"}
+}

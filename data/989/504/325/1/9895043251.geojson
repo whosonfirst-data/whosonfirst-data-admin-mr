@@ -1,0 +1,74 @@
+{
+  "id": 9895043251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.73672,17.11616,-11.73672,17.11616",
+    "geom:latitude":17.11616,
+    "geom:longitude":-11.73672,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258781: name \"Tenguini Ediel Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258781"
+        },
+        {
+            "citation":"GeoNames populated place 13258781: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258781"
+        },
+        {
+            "citation":"GeoNames populated place 13258781: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258781"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258781
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1c0e29468f1c729da9e78dfab206e925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043251,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043251,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tenguini Ediel Un",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.73672,
+    17.11616,
+    -11.73672,
+    17.11616
+],
+  "geometry": {"coordinates":[-11.73672,17.11616],"type":"Point"}
+}

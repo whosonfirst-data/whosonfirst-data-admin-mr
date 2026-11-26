@@ -1,0 +1,74 @@
+{
+  "id": 9895048670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71648,16.75596,-10.71648,16.75596",
+    "geom:latitude":16.75596,
+    "geom:longitude":-10.71648,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525189: name \"Grayer Lemhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525189"
+        },
+        {
+            "citation":"GeoNames populated place 13525189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525189"
+        },
+        {
+            "citation":"GeoNames populated place 13525189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525189"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695497 (Tamchekett), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525189
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2ff93e8c69b68da4929285bf14416ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695497,
+            "locality_id":9895048670,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048670,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Grayer Lemhar",
+    "wof:parent_id":1091695497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71648,
+    16.75596,
+    -10.71648,
+    16.75596
+],
+  "geometry": {"coordinates":[-10.71648,16.75596],"type":"Point"}
+}

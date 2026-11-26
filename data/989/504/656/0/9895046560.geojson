@@ -1,0 +1,74 @@
+{
+  "id": 9895046560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.99388,21.28639,-14.99388,21.28639",
+    "geom:latitude":21.28639,
+    "geom:longitude":-14.99388,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520234: name \"Inal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520234"
+        },
+        {
+            "citation":"GeoNames populated place 13520234: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520234"
+        },
+        {
+            "citation":"GeoNames populated place 13520234: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520234"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695961 (Nouadhibou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674865,
+        102191573,
+        1091695961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520234
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"38e1001ab5b08799022c43b2e3f78c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695961,
+            "locality_id":9895046560,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":9895046560,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Inal",
+    "wof:parent_id":1091695961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.99388,
+    21.28639,
+    -14.99388,
+    21.28639
+],
+  "geometry": {"coordinates":[-14.99388,21.28639],"type":"Point"}
+}

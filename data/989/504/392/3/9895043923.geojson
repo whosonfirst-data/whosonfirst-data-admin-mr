@@ -1,0 +1,74 @@
+{
+  "id": 9895043923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.24845,16.18001,-12.24845,16.18001",
+    "geom:latitude":16.18001,
+    "geom:longitude":-12.24845,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316494: name \"Ehel Sidi Ali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316494"
+        },
+        {
+            "citation":"GeoNames populated place 13316494: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316494"
+        },
+        {
+            "citation":"GeoNames populated place 13316494: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316494"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695009 (M'Bout), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316494
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0f85835520529893b826c422653bb556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":9895043923,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043923,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Sidi Ali",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.24845,
+    16.18001,
+    -12.24845,
+    16.18001
+],
+  "geometry": {"coordinates":[-12.24845,16.18001],"type":"Point"}
+}

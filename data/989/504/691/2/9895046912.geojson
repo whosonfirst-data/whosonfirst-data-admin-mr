@@ -1,0 +1,74 @@
+{
+  "id": 9895046912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.56053,21.47147,-11.56053,21.47147",
+    "geom:latitude":21.47147,
+    "geom:longitude":-11.56053,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520649: name \"Hsey Ould Moya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520649"
+        },
+        {
+            "citation":"GeoNames populated place 13520649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520649"
+        },
+        {
+            "citation":"GeoNames populated place 13520649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520649"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696097 (F'Derik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674857,
+        102191573,
+        1091696097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520649
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b8c1d3eb939d5b1148f51d7ac8ce2293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696097,
+            "locality_id":9895046912,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":9895046912,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hsey Ould Moya",
+    "wof:parent_id":1091696097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.56053,
+    21.47147,
+    -11.56053,
+    21.47147
+],
+  "geometry": {"coordinates":[-11.56053,21.47147],"type":"Point"}
+}

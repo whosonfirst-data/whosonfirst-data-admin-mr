@@ -1,0 +1,74 @@
+{
+  "id": 9895046576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.91557,20.03151,-15.91557,20.03151",
+    "geom:latitude":20.03151,
+    "geom:longitude":-15.91557,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520250: name \"Tijiritt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520250"
+        },
+        {
+            "citation":"GeoNames populated place 13520250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520250"
+        },
+        {
+            "citation":"GeoNames populated place 13520250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520250"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695961 (Nouadhibou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674865,
+        102191573,
+        1091695961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520250
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6bada47f1be2c54904d1d3c68a84a8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695961,
+            "locality_id":9895046576,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":9895046576,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tijiritt",
+    "wof:parent_id":1091695961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.91557,
+    20.03151,
+    -15.91557,
+    20.03151
+],
+  "geometry": {"coordinates":[-15.91557,20.03151],"type":"Point"}
+}

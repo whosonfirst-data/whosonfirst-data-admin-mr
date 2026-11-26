@@ -1,0 +1,74 @@
+{
+  "id": 9895043864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77758,15.61344,-12.77758,15.61344",
+    "geom:latitude":15.61344,
+    "geom:longitude":-12.77758,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316429: name \"Hassri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316429"
+        },
+        {
+            "citation":"GeoNames populated place 13316429: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316429"
+        },
+        {
+            "citation":"GeoNames populated place 13316429: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316429"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694811 (Maghama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091694811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316429
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a803b3178281a068c0eb33bda250b15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694811,
+            "locality_id":9895043864,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043864,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hassri",
+    "wof:parent_id":1091694811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77758,
+    15.61344,
+    -12.77758,
+    15.61344
+],
+  "geometry": {"coordinates":[-12.77758,15.61344],"type":"Point"}
+}

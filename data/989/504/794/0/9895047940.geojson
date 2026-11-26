@@ -1,0 +1,74 @@
+{
+  "id": 9895047940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.18833,16.67976,-10.18833,16.67976",
+    "geom:latitude":16.67976,
+    "geom:longitude":-10.18833,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524449: name \"Legleita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524449"
+        },
+        {
+            "citation":"GeoNames populated place 13524449: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524449"
+        },
+        {
+            "citation":"GeoNames populated place 13524449: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524449"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695497 (Tamchekett), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524449
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bce6e194d752a5172f31740d608942ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695497,
+            "locality_id":9895047940,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895047940,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Legleita",
+    "wof:parent_id":1091695497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.18833,
+    16.67976,
+    -10.18833,
+    16.67976
+],
+  "geometry": {"coordinates":[-10.18833,16.67976],"type":"Point"}
+}

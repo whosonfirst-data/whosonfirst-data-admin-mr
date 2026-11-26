@@ -1,0 +1,74 @@
+{
+  "id": 9895047772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.34361,17.28738,-14.34361,17.28738",
+    "geom:latitude":17.28738,
+    "geom:longitude":-14.34361,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523747: name \"Ajweir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523747"
+        },
+        {
+            "citation":"GeoNames populated place 13523747: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523747"
+        },
+        {
+            "citation":"GeoNames populated place 13523747: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523747"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695697 (Boutilimit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523747
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"3b10a05dff2f90c00999cc0b01a83d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695697,
+            "locality_id":9895047772,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047772,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ajweir",
+    "wof:parent_id":1091695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.34361,
+    17.28738,
+    -14.34361,
+    17.28738
+],
+  "geometry": {"coordinates":[-14.34361,17.28738],"type":"Point"}
+}

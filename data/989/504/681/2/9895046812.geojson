@@ -1,0 +1,74 @@
+{
+  "id": 9895046812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.51869,21.17596,-11.51869,21.17596",
+    "geom:latitude":21.17596,
+    "geom:longitude":-11.51869,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520549: name \"Elmabrouk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520549"
+        },
+        {
+            "citation":"GeoNames populated place 13520549: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520549"
+        },
+        {
+            "citation":"GeoNames populated place 13520549: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520549"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696073 (Ouadane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091696073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520549
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a729f1267d4a686820b55cc4f0a3c078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696073,
+            "locality_id":9895046812,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046812,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmabrouk",
+    "wof:parent_id":1091696073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.51869,
+    21.17596,
+    -11.51869,
+    21.17596
+],
+  "geometry": {"coordinates":[-11.51869,21.17596],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895047651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.97755,17.1896,-15.97755,17.1896",
+    "geom:latitude":17.1896,
+    "geom:longitude":-15.97755,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523621: name \"Sava\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523621"
+        },
+        {
+            "citation":"GeoNames populated place 13523621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523621"
+        },
+        {
+            "citation":"GeoNames populated place 13523621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695465 (Mederdra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523621
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"64a67e8e4b0e27ca5b2723fb08f220b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":9895047651,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047651,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sava",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.97755,
+    17.1896,
+    -15.97755,
+    17.1896
+],
+  "geometry": {"coordinates":[-15.97755,17.1896],"type":"Point"}
+}

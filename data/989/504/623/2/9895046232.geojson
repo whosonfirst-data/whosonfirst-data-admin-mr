@@ -1,0 +1,74 @@
+{
+  "id": 9895046232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98758,15.62563,-7.98758,15.62563",
+    "geom:latitude":15.62563,
+    "geom:longitude":-7.98758,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356424: name \"Arche Ebba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356424"
+        },
+        {
+            "citation":"GeoNames populated place 13356424: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356424"
+        },
+        {
+            "citation":"GeoNames populated place 13356424: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356424"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695261 (Timbedra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356424
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1ee1aa5e3dc2b6e7b75276ca5f63a98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":9895046232,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046232,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Arche Ebba",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98758,
+    15.62563,
+    -7.98758,
+    15.62563
+],
+  "geometry": {"coordinates":[-7.98758,15.62563],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895047458,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.50798,17.9526,-15.50798,17.9526",
+    "geom:latitude":17.9526,
+    "geom:longitude":-15.50798,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523426: name \"Taybe el Jenoubiya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523426"
+        },
+        {
+            "citation":"GeoNames populated place 13523426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523426"
+        },
+        {
+            "citation":"GeoNames populated place 13523426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523426"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695675 (Ouad Naga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523426
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7e56028f042fc9194ecb0219e4719f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695675,
+            "locality_id":9895047458,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047458,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Taybe el Jenoubiya",
+    "wof:parent_id":1091695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.50798,
+    17.9526,
+    -15.50798,
+    17.9526
+],
+  "geometry": {"coordinates":[-15.50798,17.9526],"type":"Point"}
+}

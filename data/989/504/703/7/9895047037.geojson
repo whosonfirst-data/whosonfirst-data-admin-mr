@@ -1,0 +1,74 @@
+{
+  "id": 9895047037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.07865,17.20522,-16.07865,17.20522",
+    "geom:latitude":17.20522,
+    "geom:longitude":-16.07865,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13522996: name \"Ghourtouba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13522996"
+        },
+        {
+            "citation":"GeoNames populated place 13522996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13522996"
+        },
+        {
+            "citation":"GeoNames populated place 13522996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13522996"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695465 (Mederdra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13522996
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ac9eedcf540686b90241fe40bc9efc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":9895047037,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047037,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ghourtouba",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.07865,
+    17.20522,
+    -16.07865,
+    17.20522
+],
+  "geometry": {"coordinates":[-16.07865,17.20522],"type":"Point"}
+}

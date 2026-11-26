@@ -1,0 +1,74 @@
+{
+  "id": 9895046119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.73105,16.89411,-5.73105,16.89411",
+    "geom:latitude":16.89411,
+    "geom:longitude":-5.73105,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356307: name \"Nbeikett Lehouach Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356307"
+        },
+        {
+            "citation":"GeoNames populated place 13356307: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356307"
+        },
+        {
+            "citation":"GeoNames populated place 13356307: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356307"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696039 (Oualata), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356307
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"96a8c469e97bcac7237a120a39b5ee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":9895046119,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046119,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Nbeikett Lehouach Un",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.73105,
+    16.89411,
+    -5.73105,
+    16.89411
+],
+  "geometry": {"coordinates":[-5.73105,16.89411],"type":"Point"}
+}

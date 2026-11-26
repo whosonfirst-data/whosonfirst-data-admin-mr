@@ -1,0 +1,74 @@
+{
+  "id": 9895044285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.91028,16.57897,-12.91028,16.57897",
+    "geom:latitude":16.57897,
+    "geom:longitude":-12.91028,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316874: name \"Lemhaisser\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316874"
+        },
+        {
+            "citation":"GeoNames populated place 13316874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316874"
+        },
+        {
+            "citation":"GeoNames populated place 13316874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316874"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695173 (Monguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316874
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4e530d26069e686cdf22a9b8c132c6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":9895044285,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044285,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lemhaisser",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.91028,
+    16.57897,
+    -12.91028,
+    16.57897
+],
+  "geometry": {"coordinates":[-12.91028,16.57897],"type":"Point"}
+}

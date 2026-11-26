@@ -1,0 +1,74 @@
+{
+  "id": 9895047711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.73453,16.53213,-15.73453,16.53213",
+    "geom:latitude":16.53213,
+    "geom:longitude":-15.73453,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523683: name \"Agweibine Tendegha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523683"
+        },
+        {
+            "citation":"GeoNames populated place 13523683: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523683"
+        },
+        {
+            "citation":"GeoNames populated place 13523683: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523683"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695159 (Rosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523683
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bb0e3d4265b0cf7f8ed0277d4fd4c123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":9895047711,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047711,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Agweibine Tendegha",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.73453,
+    16.53213,
+    -15.73453,
+    16.53213
+],
+  "geometry": {"coordinates":[-15.73453,16.53213],"type":"Point"}
+}

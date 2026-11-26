@@ -1,0 +1,74 @@
+{
+  "id": 9895046615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.46721,19.35182,-14.46721,19.35182",
+    "geom:latitude":19.35182,
+    "geom:longitude":-14.46721,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520289: name \"Tenmejouk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520289"
+        },
+        {
+            "citation":"GeoNames populated place 13520289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520289"
+        },
+        {
+            "citation":"GeoNames populated place 13520289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520289"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695891 (Akjoujt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674869,
+        102191573,
+        1091695891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520289
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"584bead9591a15f54294c6e6718507f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695891,
+            "locality_id":9895046615,
+            "region_id":85674869
+        }
+    ],
+    "wof:id":9895046615,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tenmejouk",
+    "wof:parent_id":1091695891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.46721,
+    19.35182,
+    -14.46721,
+    19.35182
+],
+  "geometry": {"coordinates":[-14.46721,19.35182],"type":"Point"}
+}

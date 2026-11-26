@@ -1,0 +1,74 @@
+{
+  "id": 9895046835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89204,21.57897,-12.89204,21.57897",
+    "geom:latitude":21.57897,
+    "geom:longitude":-12.89204,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520572: name \"Rag Ould Chedad Ould Mhaimed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520572"
+        },
+        {
+            "citation":"GeoNames populated place 13520572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520572"
+        },
+        {
+            "citation":"GeoNames populated place 13520572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520572"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696097 (F'Derik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674857,
+        102191573,
+        1091696097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520572
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"34c859fc934c49780d8dd2cb462357bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696097,
+            "locality_id":9895046835,
+            "region_id":85674857
+        }
+    ],
+    "wof:id":9895046835,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Rag Ould Chedad Ould Mhaimed",
+    "wof:parent_id":1091696097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89204,
+    21.57897,
+    -12.89204,
+    21.57897
+],
+  "geometry": {"coordinates":[-12.89204,21.57897],"type":"Point"}
+}

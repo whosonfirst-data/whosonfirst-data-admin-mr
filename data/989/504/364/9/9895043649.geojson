@@ -1,0 +1,74 @@
+{
+  "id": 9895043649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25173,16.49979,-12.25173,16.49979",
+    "geom:latitude":16.49979,
+    "geom:longitude":-12.25173,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13259227: name \"Chelkhett Laetache\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13259227"
+        },
+        {
+            "citation":"GeoNames populated place 13259227: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13259227"
+        },
+        {
+            "citation":"GeoNames populated place 13259227: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13259227"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13259227
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ae66de9ce0263b47fe73cd630a6f72ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043649,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043649,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Chelkhett Laetache",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25173,
+    16.49979,
+    -12.25173,
+    16.49979
+],
+  "geometry": {"coordinates":[-12.25173,16.49979],"type":"Point"}
+}

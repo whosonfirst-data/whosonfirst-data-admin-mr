@@ -1,0 +1,74 @@
+{
+  "id": 9895047436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.77431,16.51458,-15.77431,16.51458",
+    "geom:latitude":16.51458,
+    "geom:longitude":-15.77431,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523404: name \"Ndioker\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523404"
+        },
+        {
+            "citation":"GeoNames populated place 13523404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523404"
+        },
+        {
+            "citation":"GeoNames populated place 13523404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523404"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695159 (Rosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523404
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ce79ca6237366e2ff0d85547e5a36aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":9895047436,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047436,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ndioker",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.77431,
+    16.51458,
+    -15.77431,
+    16.51458
+],
+  "geometry": {"coordinates":[-15.77431,16.51458],"type":"Point"}
+}

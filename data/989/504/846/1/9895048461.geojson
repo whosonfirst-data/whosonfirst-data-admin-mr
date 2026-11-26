@@ -1,0 +1,74 @@
+{
+  "id": 9895048461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85859,17.06017,-10.85859,17.06017",
+    "geom:latitude":17.06017,
+    "geom:longitude":-10.85859,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524979: name \"Beder\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524979"
+        },
+        {
+            "citation":"GeoNames populated place 13524979: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524979"
+        },
+        {
+            "citation":"GeoNames populated place 13524979: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524979"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695497 (Tamchekett), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524979
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"10b0d9ae34c92e426b48efd68b3c769b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695497,
+            "locality_id":9895048461,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048461,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Beder",
+    "wof:parent_id":1091695497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85859,
+    17.06017,
+    -10.85859,
+    17.06017
+],
+  "geometry": {"coordinates":[-10.85859,17.06017],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895047745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.70155,16.59988,-15.70155,16.59988",
+    "geom:latitude":16.59988,
+    "geom:longitude":-15.70155,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523718: name \"Mbarek Daw Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523718"
+        },
+        {
+            "citation":"GeoNames populated place 13523718: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523718"
+        },
+        {
+            "citation":"GeoNames populated place 13523718: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523718"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695159 (Rosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523718
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"08ec3741fdf0ea4e747b7d5a8376bd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":9895047745,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047745,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mbarek Daw Deux",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.70155,
+    16.59988,
+    -15.70155,
+    16.59988
+],
+  "geometry": {"coordinates":[-15.70155,16.59988],"type":"Point"}
+}

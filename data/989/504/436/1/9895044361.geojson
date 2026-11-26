@@ -1,0 +1,74 @@
+{
+  "id": 9895044361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45239,15.63237,-12.45239,15.63237",
+    "geom:latitude":15.63237,
+    "geom:longitude":-12.45239,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350369: name \"Wouro Youba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350369"
+        },
+        {
+            "citation":"GeoNames populated place 13350369: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350369"
+        },
+        {
+            "citation":"GeoNames populated place 13350369: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350369"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694791 (Selibaby), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350369
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ea024f0e3885fe324c1fe56eb3e9a9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":9895044361,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044361,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Wouro Youba",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45239,
+    15.63237,
+    -12.45239,
+    15.63237
+],
+  "geometry": {"coordinates":[-12.45239,15.63237],"type":"Point"}
+}

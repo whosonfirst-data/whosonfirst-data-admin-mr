@@ -1,0 +1,74 @@
+{
+  "id": 9895046726,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.13888,20.0145,-13.13888,20.0145",
+    "geom:latitude":20.0145,
+    "geom:longitude":-13.13888,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520463: name \"Tanghel Ould Emghar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520463"
+        },
+        {
+            "citation":"GeoNames populated place 13520463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520463"
+        },
+        {
+            "citation":"GeoNames populated place 13520463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520463"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695825 (Aoujeft), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520463
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0edd616b4c8296d188fb16c3d9fdc88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":9895046726,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046726,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tanghel Ould Emghar",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.13888,
+    20.0145,
+    -13.13888,
+    20.0145
+],
+  "geometry": {"coordinates":[-13.13888,20.0145],"type":"Point"}
+}

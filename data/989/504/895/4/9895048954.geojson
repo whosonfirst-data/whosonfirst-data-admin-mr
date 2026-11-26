@@ -1,0 +1,74 @@
+{
+  "id": 9895048954,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4548,16.11327,-9.4548,16.11327",
+    "geom:latitude":16.11327,
+    "geom:longitude":-9.4548,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525477: name \"Jleya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525477"
+        },
+        {
+            "citation":"GeoNames populated place 13525477: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525477"
+        },
+        {
+            "citation":"GeoNames populated place 13525477: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525477"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694947 (Kobeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525477
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e758c42910a36beed992ac08bcdf4db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":9895048954,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048954,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Jleya",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4548,
+    16.11327,
+    -9.4548,
+    16.11327
+],
+  "geometry": {"coordinates":[-9.4548,16.11327],"type":"Point"}
+}

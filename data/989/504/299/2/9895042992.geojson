@@ -1,0 +1,74 @@
+{
+  "id": 9895042992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.99871,17.07063,-10.99871,17.07063",
+    "geom:latitude":17.07063,
+    "geom:longitude":-10.99871,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258483: name \"Oum Elkhiz Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258483"
+        },
+        {
+            "citation":"GeoNames populated place 13258483: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258483"
+        },
+        {
+            "citation":"GeoNames populated place 13258483: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258483"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258483
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"0d3005da69d454945ed73ce9f0ff565b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895042992,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042992,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Elkhiz Deux",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.99871,
+    17.07063,
+    -10.99871,
+    17.07063
+],
+  "geometry": {"coordinates":[-10.99871,17.07063],"type":"Point"}
+}

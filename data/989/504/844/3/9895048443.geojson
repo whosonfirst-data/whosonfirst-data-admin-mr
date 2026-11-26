@@ -1,0 +1,74 @@
+{
+  "id": 9895048443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24588,15.93458,-9.24588,15.93458",
+    "geom:latitude":15.93458,
+    "geom:longitude":-9.24588,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524960: name \"Treidatt Eteliya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524960"
+        },
+        {
+            "citation":"GeoNames populated place 13524960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524960"
+        },
+        {
+            "citation":"GeoNames populated place 13524960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694947 (Kobeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524960
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6dab17e5e5da7a0516b75e49ae28add3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":9895048443,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048443,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Treidatt Eteliya",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24588,
+    15.93458,
+    -9.24588,
+    15.93458
+],
+  "geometry": {"coordinates":[-9.24588,15.93458],"type":"Point"}
+}

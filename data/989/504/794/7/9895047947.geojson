@@ -1,0 +1,74 @@
+{
+  "id": 9895047947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.74707,16.57553,-10.74707,16.57553",
+    "geom:latitude":16.57553,
+    "geom:longitude":-10.74707,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524456: name \"Oum Lemhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524456"
+        },
+        {
+            "citation":"GeoNames populated place 13524456: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524456"
+        },
+        {
+            "citation":"GeoNames populated place 13524456: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524456"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524456
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"81f0bfb44ffa917c8d41fcd59e94c5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895047947,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895047947,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Lemhar",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.74707,
+    16.57553,
+    -10.74707,
+    16.57553
+],
+  "geometry": {"coordinates":[-10.74707,16.57553],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895045394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73384,16.44939,-7.73384,16.44939",
+    "geom:latitude":16.44939,
+    "geom:longitude":-7.73384,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355534: name \"Hay Saada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355534"
+        },
+        {
+            "citation":"GeoNames populated place 13355534: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355534"
+        },
+        {
+            "citation":"GeoNames populated place 13355534: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355534"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695295 (Nema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355534
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"5df165e54843c1543f49bc51bf80a78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":9895045394,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045394,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hay Saada",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73384,
+    16.44939,
+    -7.73384,
+    16.44939
+],
+  "geometry": {"coordinates":[-7.73384,16.44939],"type":"Point"}
+}

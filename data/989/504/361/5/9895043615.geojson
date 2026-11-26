@@ -1,0 +1,74 @@
+{
+  "id": 9895043615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.25435,17.40574,-11.25435,17.40574",
+    "geom:latitude":17.40574,
+    "geom:longitude":-11.25435,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13259189: name \"Lebheiriya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13259189"
+        },
+        {
+            "citation":"GeoNames populated place 13259189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13259189"
+        },
+        {
+            "citation":"GeoNames populated place 13259189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13259189"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695577 (Boumdeid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13259189
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"5cafa0eaecbd240aafeef32ae0d9ec39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695577,
+            "locality_id":9895043615,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043615,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lebheiriya",
+    "wof:parent_id":1091695577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.25435,
+    17.40574,
+    -11.25435,
+    17.40574
+],
+  "geometry": {"coordinates":[-11.25435,17.40574],"type":"Point"}
+}

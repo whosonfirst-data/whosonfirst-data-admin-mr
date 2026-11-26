@@ -1,0 +1,74 @@
+{
+  "id": 9895042540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.55284,18.63367,-10.55284,18.63367",
+    "geom:latitude":18.63367,
+    "geom:longitude":-10.55284,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13252941: name \"Twajil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13252941"
+        },
+        {
+            "citation":"GeoNames populated place 13252941: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13252941"
+        },
+        {
+            "citation":"GeoNames populated place 13252941: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13252941"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695767 (Tichitt), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13252941
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7f1a36b4d7fe7ac2dbf1270ae83eacb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695767,
+            "locality_id":9895042540,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042540,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Twajil",
+    "wof:parent_id":1091695767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.55284,
+    18.63367,
+    -10.55284,
+    18.63367
+],
+  "geometry": {"coordinates":[-10.55284,18.63367],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10247,20.36844,-13.10247,20.36844",
+    "geom:latitude":20.36844,
+    "geom:longitude":-13.10247,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11951359: name \"Souigya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11951359"
+        },
+        {
+            "citation":"GeoNames populated place 11951359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11951359"
+        },
+        {
+            "citation":"GeoNames populated place 11951359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11951359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11951359
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2a3d567ed3ba62967bbad5a4d7305567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895042426,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895042426,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Souigya",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10247,
+    20.36844,
+    -13.10247,
+    20.36844
+],
+  "geometry": {"coordinates":[-13.10247,20.36844],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895045068,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64124,15.71055,-8.64124,15.71055",
+    "geom:latitude":15.71055,
+    "geom:longitude":-8.64124,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355181: name \"Hama Ould Mahmoud\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355181"
+        },
+        {
+            "citation":"GeoNames populated place 13355181: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355181"
+        },
+        {
+            "citation":"GeoNames populated place 13355181: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355181"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695039 (Djigueni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355181
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"5c9897fbc2c8562a80b214c3b7c741a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":9895045068,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045068,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hama Ould Mahmoud",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64124,
+    15.71055,
+    -8.64124,
+    15.71055
+],
+  "geometry": {"coordinates":[-8.64124,15.71055],"type":"Point"}
+}

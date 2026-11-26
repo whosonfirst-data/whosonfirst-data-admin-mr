@@ -1,0 +1,74 @@
+{
+  "id": 9895044806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.87138,15.79525,-6.87138,15.79525",
+    "geom:latitude":15.79525,
+    "geom:longitude":-6.87138,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354898: name \"Boiziyett Tnaguid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354898"
+        },
+        {
+            "citation":"GeoNames populated place 13354898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354898"
+        },
+        {
+            "citation":"GeoNames populated place 13354898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354898"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354898
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"42c360ee043ce86c472346fe4de943b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895044806,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044806,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Boiziyett Tnaguid",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.87138,
+    15.79525,
+    -6.87138,
+    15.79525
+],
+  "geometry": {"coordinates":[-6.87138,15.79525],"type":"Point"}
+}

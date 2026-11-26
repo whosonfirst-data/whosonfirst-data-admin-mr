@@ -1,0 +1,74 @@
+{
+  "id": 9895047719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08464,17.30721,-16.08464,17.30721",
+    "geom:latitude":17.30721,
+    "geom:longitude":-16.08464,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523691: name \"Tedamoune\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523691"
+        },
+        {
+            "citation":"GeoNames populated place 13523691: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523691"
+        },
+        {
+            "citation":"GeoNames populated place 13523691: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523691"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695675 (Ouad Naga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523691
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bed6700544c1ec6f6a1dc17e7cddbba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695675,
+            "locality_id":9895047719,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047719,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tedamoune",
+    "wof:parent_id":1091695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08464,
+    17.30721,
+    -16.08464,
+    17.30721
+],
+  "geometry": {"coordinates":[-16.08464,17.30721],"type":"Point"}
+}

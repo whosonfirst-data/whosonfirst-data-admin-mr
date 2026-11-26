@@ -1,0 +1,74 @@
+{
+  "id": 9895043189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16876,16.91779,-11.16876,16.91779",
+    "geom:latitude":16.91779,
+    "geom:longitude":-11.16876,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258707: name \"Dissagh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258707"
+        },
+        {
+            "citation":"GeoNames populated place 13258707: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258707"
+        },
+        {
+            "citation":"GeoNames populated place 13258707: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258707"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258707
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b4b8faa965b0d84e0e5a2e437cc91c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043189,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043189,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dissagh",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16876,
+    16.91779,
+    -11.16876,
+    16.91779
+],
+  "geometry": {"coordinates":[-11.16876,16.91779],"type":"Point"}
+}

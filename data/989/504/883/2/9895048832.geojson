@@ -1,0 +1,74 @@
+{
+  "id": 9895048832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65031,15.6024,-10.65031,15.6024",
+    "geom:latitude":15.6024,
+    "geom:longitude":-10.65031,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525353: name \"Tegowditt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525353"
+        },
+        {
+            "citation":"GeoNames populated place 13525353: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525353"
+        },
+        {
+            "citation":"GeoNames populated place 13525353: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525353"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525353
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4e73d1c247c764d974d36b5cafb58d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895048832,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895048832,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tegowditt",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65031,
+    15.6024,
+    -10.65031,
+    15.6024
+],
+  "geometry": {"coordinates":[-10.65031,15.6024],"type":"Point"}
+}

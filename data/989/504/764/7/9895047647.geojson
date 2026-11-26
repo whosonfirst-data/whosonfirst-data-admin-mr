@@ -1,0 +1,74 @@
+{
+  "id": 9895047647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.73331,17.57556,-14.73331,17.57556",
+    "geom:latitude":17.57556,
+    "geom:longitude":-14.73331,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523617: name \"Mabrouk Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523617"
+        },
+        {
+            "citation":"GeoNames populated place 13523617: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523617"
+        },
+        {
+            "citation":"GeoNames populated place 13523617: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523617"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695697 (Boutilimit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523617
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a49dfc913606fc43b6609f9c35190f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695697,
+            "locality_id":9895047647,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047647,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mabrouk Deux",
+    "wof:parent_id":1091695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.73331,
+    17.57556,
+    -14.73331,
+    17.57556
+],
+  "geometry": {"coordinates":[-14.73331,17.57556],"type":"Point"}
+}

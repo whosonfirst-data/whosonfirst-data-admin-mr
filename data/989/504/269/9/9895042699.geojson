@@ -1,0 +1,74 @@
+{
+  "id": 9895042699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.84482,17.70874,-11.84482,17.70874",
+    "geom:latitude":17.70874,
+    "geom:longitude":-11.84482,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253136: name \"Laghva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253136"
+        },
+        {
+            "citation":"GeoNames populated place 13253136: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253136"
+        },
+        {
+            "citation":"GeoNames populated place 13253136: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253136"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695647 (Moudjeria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253136
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9d61970a78485d99b491cb32c9a2c49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":9895042699,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042699,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Laghva",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.84482,
+    17.70874,
+    -11.84482,
+    17.70874
+],
+  "geometry": {"coordinates":[-11.84482,17.70874],"type":"Point"}
+}

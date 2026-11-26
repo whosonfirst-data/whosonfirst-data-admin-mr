@@ -1,0 +1,74 @@
+{
+  "id": 9895048505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.50905,16.63697,-9.50905,16.63697",
+    "geom:latitude":16.63697,
+    "geom:longitude":-9.50905,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525023: name \"Zemzem\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525023"
+        },
+        {
+            "citation":"GeoNames populated place 13525023: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525023"
+        },
+        {
+            "citation":"GeoNames populated place 13525023: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525023"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525023
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f4d5617d886ad72d65950c48018b869a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048505,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048505,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Zemzem",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.50905,
+    16.63697,
+    -9.50905,
+    16.63697
+],
+  "geometry": {"coordinates":[-9.50905,16.63697],"type":"Point"}
+}

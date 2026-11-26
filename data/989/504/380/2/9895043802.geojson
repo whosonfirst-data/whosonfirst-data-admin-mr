@@ -1,0 +1,74 @@
+{
+  "id": 9895043802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.04211,15.5385,-13.04211,15.5385",
+    "geom:latitude":15.5385,
+    "geom:longitude":-13.04211,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316367: name \"Boundou Hamadi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316367"
+        },
+        {
+            "citation":"GeoNames populated place 13316367: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316367"
+        },
+        {
+            "citation":"GeoNames populated place 13316367: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316367"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694811 (Maghama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091694811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316367
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8a2bb48e002ca3f35e341c7544d13424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694811,
+            "locality_id":9895043802,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043802,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Boundou Hamadi",
+    "wof:parent_id":1091694811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.04211,
+    15.5385,
+    -13.04211,
+    15.5385
+],
+  "geometry": {"coordinates":[-13.04211,15.5385],"type":"Point"}
+}

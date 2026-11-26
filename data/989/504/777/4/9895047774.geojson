@@ -1,0 +1,74 @@
+{
+  "id": 9895047774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.80789,17.02423,-15.80789,17.02423",
+    "geom:latitude":17.02423,
+    "geom:longitude":-15.80789,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523749: name \"Hsey Rhahla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523749"
+        },
+        {
+            "citation":"GeoNames populated place 13523749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523749"
+        },
+        {
+            "citation":"GeoNames populated place 13523749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523749"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695465 (Mederdra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523749
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"51d4d70879920c3e6a48d4b4c79b172f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":9895047774,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047774,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hsey Rhahla",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.80789,
+    17.02423,
+    -15.80789,
+    17.02423
+],
+  "geometry": {"coordinates":[-15.80789,17.02423],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49365,15.96564,-11.49365,15.96564",
+    "geom:latitude":15.96564,
+    "geom:longitude":-11.49365,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258317: name \"Awlad Leghweizi Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258317"
+        },
+        {
+            "citation":"GeoNames populated place 13258317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258317"
+        },
+        {
+            "citation":"GeoNames populated place 13258317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258317"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258317
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1a0f1ccf4cc6abf09f2cf0a5f7b2358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895042852,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042852,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Awlad Leghweizi Deux",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49365,
+    15.96564,
+    -11.49365,
+    15.96564
+],
+  "geometry": {"coordinates":[-11.49365,15.96564],"type":"Point"}
+}

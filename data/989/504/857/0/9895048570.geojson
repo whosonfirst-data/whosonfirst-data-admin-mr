@@ -1,0 +1,74 @@
+{
+  "id": 9895048570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.62681,16.37706,-9.62681,16.37706",
+    "geom:latitude":16.37706,
+    "geom:longitude":-9.62681,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525088: name \"Ghlilg Ehel Chah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525088"
+        },
+        {
+            "citation":"GeoNames populated place 13525088: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525088"
+        },
+        {
+            "citation":"GeoNames populated place 13525088: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525088"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525088
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e9dfcdca140adae6f27ec2afb2b498ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048570,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048570,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ghlilg Ehel Chah",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.62681,
+    16.37706,
+    -9.62681,
+    16.37706
+],
+  "geometry": {"coordinates":[-9.62681,16.37706],"type":"Point"}
+}

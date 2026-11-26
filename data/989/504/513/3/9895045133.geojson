@@ -1,0 +1,74 @@
+{
+  "id": 9895045133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22973,16.24373,-8.22973,16.24373",
+    "geom:latitude":16.24373,
+    "geom:longitude":-8.22973,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355252: name \"Sweila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355252"
+        },
+        {
+            "citation":"GeoNames populated place 13355252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355252"
+        },
+        {
+            "citation":"GeoNames populated place 13355252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695261 (Timbedra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355252
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"dc8ef0b3373fb248896bb11568f5a5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":9895045133,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045133,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sweila",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22973,
+    16.24373,
+    -8.22973,
+    16.24373
+],
+  "geometry": {"coordinates":[-8.22973,16.24373],"type":"Point"}
+}

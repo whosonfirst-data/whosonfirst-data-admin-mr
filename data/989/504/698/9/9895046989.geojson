@@ -1,0 +1,74 @@
+{
+  "id": 9895046989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14456,20.32659,-13.14456,20.32659",
+    "geom:latitude":20.32659,
+    "geom:longitude":-13.14456,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520727: name \"Hamdoune Emvareche\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520727"
+        },
+        {
+            "citation":"GeoNames populated place 13520727: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520727"
+        },
+        {
+            "citation":"GeoNames populated place 13520727: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520727"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520727
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f6df356babf8170c26542acd873a3a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046989,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046989,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hamdoune Emvareche",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14456,
+    20.32659,
+    -13.14456,
+    20.32659
+],
+  "geometry": {"coordinates":[-13.14456,20.32659],"type":"Point"}
+}

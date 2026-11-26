@@ -1,0 +1,74 @@
+{
+  "id": 9895046699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.91128,20.68336,-11.91128,20.68336",
+    "geom:latitude":20.68336,
+    "geom:longitude":-11.91128,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520436: name \"Legneiba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520436"
+        },
+        {
+            "citation":"GeoNames populated place 13520436: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520436"
+        },
+        {
+            "citation":"GeoNames populated place 13520436: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520436"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696073 (Ouadane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091696073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520436
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e2556ab0cc2ec1392b41c42af3fc01a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696073,
+            "locality_id":9895046699,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046699,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Legneiba",
+    "wof:parent_id":1091696073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.91128,
+    20.68336,
+    -11.91128,
+    20.68336
+],
+  "geometry": {"coordinates":[-11.91128,20.68336],"type":"Point"}
+}

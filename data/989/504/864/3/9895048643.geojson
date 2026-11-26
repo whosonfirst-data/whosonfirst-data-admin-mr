@@ -1,0 +1,74 @@
+{
+  "id": 9895048643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80214,16.67159,-8.80214,16.67159",
+    "geom:latitude":16.67159,
+    "geom:longitude":-8.80214,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525162: name \"Elmelzem\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525162"
+        },
+        {
+            "citation":"GeoNames populated place 13525162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525162"
+        },
+        {
+            "citation":"GeoNames populated place 13525162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525162"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525162
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"931161c9635d452ebabb0834f9a78a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048643,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048643,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmelzem",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80214,
+    16.67159,
+    -8.80214,
+    16.67159
+],
+  "geometry": {"coordinates":[-8.80214,16.67159],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895043672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.72796,17.26866,-11.72796,17.26866",
+    "geom:latitude":17.26866,
+    "geom:longitude":-11.72796,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13259251: name \"Debay Etarha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13259251"
+        },
+        {
+            "citation":"GeoNames populated place 13259251: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13259251"
+        },
+        {
+            "citation":"GeoNames populated place 13259251: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13259251"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695647 (Moudjeria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13259251
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d8e6edfb8a5edc17f56c4e44848d671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":9895043672,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895043672,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Debay Etarha",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.72796,
+    17.26866,
+    -11.72796,
+    17.26866
+],
+  "geometry": {"coordinates":[-11.72796,17.26866],"type":"Point"}
+}

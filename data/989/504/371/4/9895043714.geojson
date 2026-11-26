@@ -1,0 +1,74 @@
+{
+  "id": 9895043714,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94777,16.49379,-12.94777,16.49379",
+    "geom:latitude":16.49379,
+    "geom:longitude":-12.94777,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316274: name \"Ehel Dhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316274"
+        },
+        {
+            "citation":"GeoNames populated place 13316274: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316274"
+        },
+        {
+            "citation":"GeoNames populated place 13316274: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316274"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695173 (Monguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316274
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"519b96b6c74234e64c3caeaa6a64bff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":9895043714,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043714,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Dhar",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94777,
+    16.49379,
+    -12.94777,
+    16.49379
+],
+  "geometry": {"coordinates":[-12.94777,16.49379],"type":"Point"}
+}

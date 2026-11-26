@@ -1,0 +1,74 @@
+{
+  "id": 9895046072,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.45701,15.97963,-7.45701,15.97963",
+    "geom:latitude":15.97963,
+    "geom:longitude":-7.45701,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356256: name \"Dbeiche Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356256"
+        },
+        {
+            "citation":"GeoNames populated place 13356256: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356256"
+        },
+        {
+            "citation":"GeoNames populated place 13356256: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356256"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356256
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"e7fffd41f91c922c8240d99bb64d22e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895046072,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046072,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dbeiche Deux",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.45701,
+    15.97963,
+    -7.45701,
+    15.97963
+],
+  "geometry": {"coordinates":[-7.45701,15.97963],"type":"Point"}
+}

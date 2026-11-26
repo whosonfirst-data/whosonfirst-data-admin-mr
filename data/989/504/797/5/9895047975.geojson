@@ -1,0 +1,74 @@
+{
+  "id": 9895047975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.80787,16.31595,-10.80787,16.31595",
+    "geom:latitude":16.31595,
+    "geom:longitude":-10.80787,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524484: name \"Bavreiwaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524484"
+        },
+        {
+            "citation":"GeoNames populated place 13524484: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524484"
+        },
+        {
+            "citation":"GeoNames populated place 13524484: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524484"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695069 (Tintane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524484
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"259747b324f7f8f011fe46a86c57a580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":9895047975,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895047975,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bavreiwaya",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.80787,
+    16.31595,
+    -10.80787,
+    16.31595
+],
+  "geometry": {"coordinates":[-10.80787,16.31595],"type":"Point"}
+}
