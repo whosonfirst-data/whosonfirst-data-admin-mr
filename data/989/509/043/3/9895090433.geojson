@@ -1,0 +1,72 @@
+{
+  "id": 9895090433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.47194,19.26251,-16.47194,19.26251",
+    "geom:latitude":19.26251,
+    "geom:longitude":-16.47194,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520197: name \"Jreiv\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520197"
+        },
+        {
+            "citation":"GeoNames populated place 13520197: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520197"
+        },
+        {
+            "citation":"GeoNames populated place 13520197: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520197"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674865 (Dakhlet Nouadhibou), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674865,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520197
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1bf9590e935c9082f65c42a6688893c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "locality_id":9895090433,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":9895090433,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Jreiv",
+    "wof:parent_id":85674865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.47194,
+    19.26251,
+    -16.47194,
+    19.26251
+],
+  "geometry": {"coordinates":[-16.47194,19.26251],"type":"Point"}
+}
