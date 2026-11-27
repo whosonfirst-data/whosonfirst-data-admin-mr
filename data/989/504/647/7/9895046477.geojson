@@ -1,0 +1,74 @@
+{
+  "id": 9895046477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49361,15.78152,-7.49361,15.78152",
+    "geom:latitude":15.78152,
+    "geom:longitude":-7.49361,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356686: name \"Tweimirt Lemarid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356686"
+        },
+        {
+            "citation":"GeoNames populated place 13356686: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356686"
+        },
+        {
+            "citation":"GeoNames populated place 13356686: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356686"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356686
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"33c122145494a5892c41888aaf689e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895046477,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046477,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tweimirt Lemarid",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49361,
+    15.78152,
+    -7.49361,
+    15.78152
+],
+  "geometry": {"coordinates":[-7.49361,15.78152],"type":"Point"}
+}

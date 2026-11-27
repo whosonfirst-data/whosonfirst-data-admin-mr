@@ -1,0 +1,74 @@
+{
+  "id": 9895044282,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.23518,16.12985,-13.23518,16.12985",
+    "geom:latitude":16.12985,
+    "geom:longitude":-13.23518,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316871: name \"Wouro Mbaib\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316871"
+        },
+        {
+            "citation":"GeoNames populated place 13316871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316871"
+        },
+        {
+            "citation":"GeoNames populated place 13316871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316871"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694955 (Kaedi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316871
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b1fc74fa313f3aade45fe6a06fd9631d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":9895044282,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044282,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Wouro Mbaib\u00e9",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.23518,
+    16.12985,
+    -13.23518,
+    16.12985
+],
+  "geometry": {"coordinates":[-13.23518,16.12985],"type":"Point"}
+}

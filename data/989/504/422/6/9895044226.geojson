@@ -1,0 +1,74 @@
+{
+  "id": 9895044226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.1689,15.65274,-13.1689,15.65274",
+    "geom:latitude":15.65274,
+    "geom:longitude":-13.1689,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316813: name \"Dar Elavia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316813"
+        },
+        {
+            "citation":"GeoNames populated place 13316813: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316813"
+        },
+        {
+            "citation":"GeoNames populated place 13316813: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316813"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694955 (Kaedi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091694955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316813
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"55ed0d44a02dc53f99bf356ebee9b71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694955,
+            "locality_id":9895044226,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044226,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dar Elavia",
+    "wof:parent_id":1091694955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.1689,
+    15.65274,
+    -13.1689,
+    15.65274
+],
+  "geometry": {"coordinates":[-13.1689,15.65274],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895043252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6638,16.64967,-12.6638,16.64967",
+    "geom:latitude":16.64967,
+    "geom:longitude":-12.6638,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258782: name \"Dakhlett Ehel Abeid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258782"
+        },
+        {
+            "citation":"GeoNames populated place 13258782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258782"
+        },
+        {
+            "citation":"GeoNames populated place 13258782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258782"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258782
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d73d1d214e54845859773cdfb5282a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043252,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043252,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dakhlett Ehel Abeid",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6638,
+    16.64967,
+    -12.6638,
+    16.64967
+],
+  "geometry": {"coordinates":[-12.6638,16.64967],"type":"Point"}
+}

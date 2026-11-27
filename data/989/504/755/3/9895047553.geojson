@@ -1,0 +1,74 @@
+{
+  "id": 9895047553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.19458,17.20184,-16.19458,17.20184",
+    "geom:latitude":17.20184,
+    "geom:longitude":-16.19458,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523522: name \"Legweichichi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523522"
+        },
+        {
+            "citation":"GeoNames populated place 13523522: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523522"
+        },
+        {
+            "citation":"GeoNames populated place 13523522: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523522"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695465 (Mederdra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523522
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"11fe512478d224ccb066098aad8616c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695465,
+            "locality_id":9895047553,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047553,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Legweichichi",
+    "wof:parent_id":1091695465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.19458,
+    17.20184,
+    -16.19458,
+    17.20184
+],
+  "geometry": {"coordinates":[-16.19458,17.20184],"type":"Point"}
+}

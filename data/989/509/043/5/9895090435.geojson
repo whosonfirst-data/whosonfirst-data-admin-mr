@@ -1,0 +1,72 @@
+{
+  "id": 9895090435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.22981,19.0225,-16.22981,19.0225",
+    "geom:latitude":19.0225,
+    "geom:longitude":-16.22981,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520214: name \"Kapmah Lemhaijratt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520214"
+        },
+        {
+            "citation":"GeoNames populated place 13520214: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520214"
+        },
+        {
+            "citation":"GeoNames populated place 13520214: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520214"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674865 (Dakhlet Nouadhibou), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674865,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520214
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2054fa6e5a889b92807fc2c9eeeaefc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "locality_id":9895090435,
+            "region_id":85674865
+        }
+    ],
+    "wof:id":9895090435,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Kapmah Lemhaijratt",
+    "wof:parent_id":85674865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.22981,
+    19.0225,
+    -16.22981,
+    19.0225
+],
+  "geometry": {"coordinates":[-16.22981,19.0225],"type":"Point"}
+}

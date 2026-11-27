@@ -1,0 +1,72 @@
+{
+  "id": 9895090440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.09295,16.62629,-15.09295,16.62629",
+    "geom:latitude":16.62629,
+    "geom:longitude":-15.09295,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523107: name \"Fada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523107"
+        },
+        {
+            "citation":"GeoNames populated place 13523107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523107"
+        },
+        {
+            "citation":"GeoNames populated place 13523107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523107"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674881 (Trarza), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523107
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c25a7a160dc25244c7d91dbb49b8633c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "locality_id":9895090440,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895090440,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Fada",
+    "wof:parent_id":85674881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.09295,
+    16.62629,
+    -15.09295,
+    16.62629
+],
+  "geometry": {"coordinates":[-15.09295,16.62629],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895048130,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47802,16.62936,-9.47802,16.62936",
+    "geom:latitude":16.62936,
+    "geom:longitude":-9.47802,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524642: name \"Hay Elkarama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524642"
+        },
+        {
+            "citation":"GeoNames populated place 13524642: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524642"
+        },
+        {
+            "citation":"GeoNames populated place 13524642: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524642"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524642
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"505c4151af0ccdc6945df09b30764a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048130,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048130,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hay Elkarama",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47802,
+    16.62936,
+    -9.47802,
+    16.62936
+],
+  "geometry": {"coordinates":[-9.47802,16.62936],"type":"Point"}
+}

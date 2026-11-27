@@ -1,0 +1,74 @@
+{
+  "id": 9895046796,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.36148,19.88938,-13.36148,19.88938",
+    "geom:latitude":19.88938,
+    "geom:longitude":-13.36148,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520533: name \"Lehfeira Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520533"
+        },
+        {
+            "citation":"GeoNames populated place 13520533: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520533"
+        },
+        {
+            "citation":"GeoNames populated place 13520533: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520533"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695825 (Aoujeft), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520533
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"16cf1cf83f998f0c0a95d8d4467aa567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":9895046796,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046796,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lehfeira Deux",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.36148,
+    19.88938,
+    -13.36148,
+    19.88938
+],
+  "geometry": {"coordinates":[-13.36148,19.88938],"type":"Point"}
+}

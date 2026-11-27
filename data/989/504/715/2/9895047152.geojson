@@ -1,0 +1,74 @@
+{
+  "id": 9895047152,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65202,17.51944,-14.65202,17.51944",
+    "geom:latitude":17.51944,
+    "geom:longitude":-14.65202,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523114: name \"Teyibatt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523114"
+        },
+        {
+            "citation":"GeoNames populated place 13523114: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523114"
+        },
+        {
+            "citation":"GeoNames populated place 13523114: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523114"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695697 (Boutilimit), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523114
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7932d66c4cf861b23467859376b7ec80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695697,
+            "locality_id":9895047152,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047152,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Teyibatt",
+    "wof:parent_id":1091695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65202,
+    17.51944,
+    -14.65202,
+    17.51944
+],
+  "geometry": {"coordinates":[-14.65202,17.51944],"type":"Point"}
+}

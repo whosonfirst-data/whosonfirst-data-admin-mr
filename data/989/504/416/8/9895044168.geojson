@@ -1,0 +1,74 @@
+{
+  "id": 9895044168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.92244,16.22976,-12.92244,16.22976",
+    "geom:latitude":16.22976,
+    "geom:longitude":-12.92244,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316753: name \"Krae Elvila Diawb\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316753"
+        },
+        {
+            "citation":"GeoNames populated place 13316753: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316753"
+        },
+        {
+            "citation":"GeoNames populated place 13316753: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316753"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695009 (M'Bout), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316753
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"827fcc52b404242d7a11187071247b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":9895044168,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044168,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Krae Elvila Diawb\u00e9",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.92244,
+    16.22976,
+    -12.92244,
+    16.22976
+],
+  "geometry": {"coordinates":[-12.92244,16.22976],"type":"Point"}
+}

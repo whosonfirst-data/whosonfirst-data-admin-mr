@@ -1,0 +1,74 @@
+{
+  "id": 9895045223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18569,15.71239,-8.18569,15.71239",
+    "geom:latitude":15.71239,
+    "geom:longitude":-8.18569,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355351: name \"Ehel Ahmed Chweikh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355351"
+        },
+        {
+            "citation":"GeoNames populated place 13355351: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355351"
+        },
+        {
+            "citation":"GeoNames populated place 13355351: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355351"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695261 (Timbedra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355351
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fd3c3906a9d074f8fdc9d5561cdd6ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":9895045223,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045223,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Ahmed Chweikh",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18569,
+    15.71239,
+    -8.18569,
+    15.71239
+],
+  "geometry": {"coordinates":[-8.18569,15.71239],"type":"Point"}
+}

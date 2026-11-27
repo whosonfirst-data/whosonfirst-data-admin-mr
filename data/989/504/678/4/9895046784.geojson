@@ -1,0 +1,74 @@
+{
+  "id": 9895046784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22065,20.69848,-13.22065,20.69848",
+    "geom:latitude":20.69848,
+    "geom:longitude":-13.22065,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520521: name \"Bir Amar Ehel Jidou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520521"
+        },
+        {
+            "citation":"GeoNames populated place 13520521: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520521"
+        },
+        {
+            "citation":"GeoNames populated place 13520521: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520521"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520521
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a6416edbc556d4b4cfd2d7d25bf5e0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046784,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046784,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bir Amar Ehel Jidou",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22065,
+    20.69848,
+    -13.22065,
+    20.69848
+],
+  "geometry": {"coordinates":[-13.22065,20.69848],"type":"Point"}
+}

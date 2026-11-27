@@ -1,0 +1,74 @@
+{
+  "id": 9895047055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.76191,16.61006,-15.76191,16.61006",
+    "geom:latitude":16.61006,
+    "geom:longitude":-15.76191,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523014: name \"Nkik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523014"
+        },
+        {
+            "citation":"GeoNames populated place 13523014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523014"
+        },
+        {
+            "citation":"GeoNames populated place 13523014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523014"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695159 (Rosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523014
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"767def3aca6a1290d8b5b01b03ddb761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695159,
+            "locality_id":9895047055,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047055,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Nkik",
+    "wof:parent_id":1091695159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.76191,
+    16.61006,
+    -15.76191,
+    16.61006
+],
+  "geometry": {"coordinates":[-15.76191,16.61006],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895045784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58792,15.72223,-7.58792,15.72223",
+    "geom:latitude":15.72223,
+    "geom:longitude":-7.58792,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355953: name \"Laerache\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355953"
+        },
+        {
+            "citation":"GeoNames populated place 13355953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355953"
+        },
+        {
+            "citation":"GeoNames populated place 13355953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355953"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355953
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d743bf7af246fcf4aa52012af2f13af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895045784,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045784,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Laerache",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58792,
+    15.72223,
+    -7.58792,
+    15.72223
+],
+  "geometry": {"coordinates":[-7.58792,15.72223],"type":"Point"}
+}

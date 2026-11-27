@@ -1,0 +1,74 @@
+{
+  "id": 9895044755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1207,16.42282,-7.1207,16.42282",
+    "geom:latitude":16.42282,
+    "geom:longitude":-7.1207,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354842: name \"Elmessyel Krae Jerk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354842"
+        },
+        {
+            "citation":"GeoNames populated place 13354842: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354842"
+        },
+        {
+            "citation":"GeoNames populated place 13354842: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354842"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695295 (Nema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354842
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a307319c2c7f9b1cd5aa90d37f945f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":9895044755,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044755,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmessyel Krae Jerk",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1207,
+    16.42282,
+    -7.1207,
+    16.42282
+],
+  "geometry": {"coordinates":[-7.1207,16.42282],"type":"Point"}
+}

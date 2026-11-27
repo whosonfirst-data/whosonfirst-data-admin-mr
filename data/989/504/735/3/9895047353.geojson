@@ -1,0 +1,74 @@
+{
+  "id": 9895047353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13589,16.71355,-15.13589,16.71355",
+    "geom:latitude":16.71355,
+    "geom:longitude":-15.13589,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523321: name \"Dakhla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523321"
+        },
+        {
+            "citation":"GeoNames populated place 13523321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523321"
+        },
+        {
+            "citation":"GeoNames populated place 13523321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523321"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695385 (R'kiz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523321
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"99ef3ead007bc2b63e38f2285ea13e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695385,
+            "locality_id":9895047353,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047353,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dakhla",
+    "wof:parent_id":1091695385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13589,
+    16.71355,
+    -15.13589,
+    16.71355
+],
+  "geometry": {"coordinates":[-15.13589,16.71355],"type":"Point"}
+}

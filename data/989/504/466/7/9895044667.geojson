@@ -1,0 +1,74 @@
+{
+  "id": 9895044667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7928,15.64918,-11.7928,15.64918",
+    "geom:latitude":15.64918,
+    "geom:longitude":-11.7928,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350688: name \"Ndoumeli Ehel Enavae\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350688"
+        },
+        {
+            "citation":"GeoNames populated place 13350688: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350688"
+        },
+        {
+            "citation":"GeoNames populated place 13350688: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350688"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694841 (Ould Yenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350688
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6dcae427fd1d49384434471cfeef0bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":9895044667,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044667,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ndoumeli Ehel Enavae",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7928,
+    15.64918,
+    -11.7928,
+    15.64918
+],
+  "geometry": {"coordinates":[-11.7928,15.64918],"type":"Point"}
+}

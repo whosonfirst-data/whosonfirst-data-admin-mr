@@ -1,0 +1,74 @@
+{
+  "id": 9895045187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55493,16.13558,-7.55493,16.13558",
+    "geom:latitude":16.13558,
+    "geom:longitude":-7.55493,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355313: name \"Ighathett Ehel Sidi Lakhdhar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355313"
+        },
+        {
+            "citation":"GeoNames populated place 13355313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355313"
+        },
+        {
+            "citation":"GeoNames populated place 13355313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355313"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695295 (Nema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355313
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d0f88449113965d1063691fb323dccbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":9895045187,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045187,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ighathett Ehel Sidi Lakhdhar",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55493,
+    16.13558,
+    -7.55493,
+    16.13558
+],
+  "geometry": {"coordinates":[-7.55493,16.13558],"type":"Point"}
+}

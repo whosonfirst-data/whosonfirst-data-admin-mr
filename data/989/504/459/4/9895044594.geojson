@@ -1,0 +1,74 @@
+{
+  "id": 9895044594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.68724,15.94709,-11.68724,15.94709",
+    "geom:latitude":15.94709,
+    "geom:longitude":-11.68724,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350608: name \"Lehraj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350608"
+        },
+        {
+            "citation":"GeoNames populated place 13350608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350608"
+        },
+        {
+            "citation":"GeoNames populated place 13350608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350608"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694841 (Ould Yenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350608
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ae6865ff730ca5507e0e91cf2de88cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":9895044594,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044594,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lehraj",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.68724,
+    15.94709,
+    -11.68724,
+    15.94709
+],
+  "geometry": {"coordinates":[-11.68724,15.94709],"type":"Point"}
+}

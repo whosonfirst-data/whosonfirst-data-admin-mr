@@ -1,0 +1,74 @@
+{
+  "id": 9895044659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05017,15.9143,-12.05017,15.9143",
+    "geom:latitude":15.9143,
+    "geom:longitude":-12.05017,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350678: name \"Agneitir Galorou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350678"
+        },
+        {
+            "citation":"GeoNames populated place 13350678: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350678"
+        },
+        {
+            "citation":"GeoNames populated place 13350678: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350678"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694841 (Ould Yenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350678
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7cd23ef7044282e6a2bd4f040a4d8c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":9895044659,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044659,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Agneitir Galorou",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05017,
+    15.9143,
+    -12.05017,
+    15.9143
+],
+  "geometry": {"coordinates":[-12.05017,15.9143],"type":"Point"}
+}

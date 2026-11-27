@@ -1,0 +1,74 @@
+{
+  "id": 9895045208,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18832,17.38461,-7.18832,17.38461",
+    "geom:latitude":17.38461,
+    "geom:longitude":-7.18832,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355335: name \"Galb Jmel Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355335"
+        },
+        {
+            "citation":"GeoNames populated place 13355335: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355335"
+        },
+        {
+            "citation":"GeoNames populated place 13355335: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355335"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696039 (Oualata), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355335
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9a38b502b3fd569592148ed82c5a0aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":9895045208,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045208,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Galb Jmel Un",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18832,
+    17.38461,
+    -7.18832,
+    17.38461
+],
+  "geometry": {"coordinates":[-7.18832,17.38461],"type":"Point"}
+}

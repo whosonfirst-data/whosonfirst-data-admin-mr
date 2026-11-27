@@ -1,0 +1,74 @@
+{
+  "id": 9895047381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.49094,16.07902,-16.49094,16.07902",
+    "geom:latitude":16.07902,
+    "geom:longitude":-16.49094,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523349: name \"Gad Mbarek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523349"
+        },
+        {
+            "citation":"GeoNames populated place 13523349: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523349"
+        },
+        {
+            "citation":"GeoNames populated place 13523349: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523349"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695227 (Keur-Macene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523349
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ebcd872d66593cc07d2b53b68b8381bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695227,
+            "locality_id":9895047381,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047381,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Gad Mbarek",
+    "wof:parent_id":1091695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.49094,
+    16.07902,
+    -16.49094,
+    16.07902
+],
+  "geometry": {"coordinates":[-16.49094,16.07902],"type":"Point"}
+}

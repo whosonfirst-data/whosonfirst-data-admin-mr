@@ -1,0 +1,74 @@
+{
+  "id": 9895045339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67288,16.10937,-8.67288,16.10937",
+    "geom:latitude":16.10937,
+    "geom:longitude":-8.67288,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355476: name \"Hassi Ehel Mohamed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355476"
+        },
+        {
+            "citation":"GeoNames populated place 13355476: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355476"
+        },
+        {
+            "citation":"GeoNames populated place 13355476: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355476"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695039 (Djigueni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355476
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"54dcaa958f6ba07297b278092131e380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695039,
+            "locality_id":9895045339,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045339,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Hassi Ehel Mohamed",
+    "wof:parent_id":1091695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67288,
+    16.10937,
+    -8.67288,
+    16.10937
+],
+  "geometry": {"coordinates":[-8.67288,16.10937],"type":"Point"}
+}

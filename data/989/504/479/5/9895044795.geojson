@@ -1,0 +1,74 @@
+{
+  "id": 9895044795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50153,15.65466,-6.50153,15.65466",
+    "geom:latitude":15.65466,
+    "geom:longitude":-6.50153,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354885: name \"Bassata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354885"
+        },
+        {
+            "citation":"GeoNames populated place 13354885: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354885"
+        },
+        {
+            "citation":"GeoNames populated place 13354885: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354885"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354885
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"9d47c828d565729a4597e03995250c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895044795,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044795,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bassata",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50153,
+    15.65466,
+    -6.50153,
+    15.65466
+],
+  "geometry": {"coordinates":[-6.50153,15.65466],"type":"Point"}
+}

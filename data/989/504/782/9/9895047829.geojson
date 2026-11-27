@@ -1,0 +1,74 @@
+{
+  "id": 9895047829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53396,16.6501,-9.53396,16.6501",
+    "geom:latitude":16.6501,
+    "geom:longitude":-9.53396,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524335: name \"Elghalaa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524335"
+        },
+        {
+            "citation":"GeoNames populated place 13524335: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524335"
+        },
+        {
+            "citation":"GeoNames populated place 13524335: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524335"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524335
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2bc1c14f46837c69f9f9d100e74ca506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895047829,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895047829,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elghalaa",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53396,
+    16.6501,
+    -9.53396,
+    16.6501
+],
+  "geometry": {"coordinates":[-9.53396,16.6501],"type":"Point"}
+}

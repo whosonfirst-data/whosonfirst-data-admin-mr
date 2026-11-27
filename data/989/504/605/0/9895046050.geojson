@@ -1,0 +1,74 @@
+{
+  "id": 9895046050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40129,15.68455,-7.40129,15.68455",
+    "geom:latitude":15.68455,
+    "geom:longitude":-7.40129,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356233: name \"Ehel Abeidala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356233"
+        },
+        {
+            "citation":"GeoNames populated place 13356233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356233"
+        },
+        {
+            "citation":"GeoNames populated place 13356233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356233"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356233
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"60159656207c7af5a09cc56d570ddacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895046050,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046050,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Abeidala",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40129,
+    15.68455,
+    -7.40129,
+    15.68455
+],
+  "geometry": {"coordinates":[-7.40129,15.68455],"type":"Point"}
+}

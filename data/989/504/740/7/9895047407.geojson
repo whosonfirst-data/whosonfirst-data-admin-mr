@@ -1,0 +1,74 @@
+{
+  "id": 9895047407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.24508,16.57106,-16.24508,16.57106",
+    "geom:latitude":16.57106,
+    "geom:longitude":-16.24508,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523375: name \"Mbaratt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523375"
+        },
+        {
+            "citation":"GeoNames populated place 13523375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523375"
+        },
+        {
+            "citation":"GeoNames populated place 13523375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523375"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695227 (Keur-Macene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523375
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6df80fefd6f7020fa0831fb9661a6bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695227,
+            "locality_id":9895047407,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047407,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mbaratt",
+    "wof:parent_id":1091695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.24508,
+    16.57106,
+    -16.24508,
+    16.57106
+],
+  "geometry": {"coordinates":[-16.24508,16.57106],"type":"Point"}
+}

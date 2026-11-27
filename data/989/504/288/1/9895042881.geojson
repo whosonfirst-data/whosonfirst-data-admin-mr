@@ -1,0 +1,74 @@
+{
+  "id": 9895042881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89358,16.01242,-10.89358,16.01242",
+    "geom:latitude":16.01242,
+    "geom:longitude":-10.89358,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258349: name \"Bedna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258349"
+        },
+        {
+            "citation":"GeoNames populated place 13258349: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258349"
+        },
+        {
+            "citation":"GeoNames populated place 13258349: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258349"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258349
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"975dcd8d8312fce857f4e8e294672e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895042881,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042881,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bedna",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89358,
+    16.01242,
+    -10.89358,
+    16.01242
+],
+  "geometry": {"coordinates":[-10.89358,16.01242],"type":"Point"}
+}

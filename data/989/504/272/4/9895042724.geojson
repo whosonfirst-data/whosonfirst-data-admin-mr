@@ -1,0 +1,74 @@
+{
+  "id": 9895042724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34722,16.93785,-11.34722,16.93785",
+    "geom:latitude":16.93785,
+    "geom:longitude":-11.34722,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258166: name \"Tweimratt Rag Ehel Ahmed Oumar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258166"
+        },
+        {
+            "citation":"GeoNames populated place 13258166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258166"
+        },
+        {
+            "citation":"GeoNames populated place 13258166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258166"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258166
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7de10b91bcab8182bb21d7591a098280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895042724,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042724,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tweimratt Rag Ehel Ahmed Oumar",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34722,
+    16.93785,
+    -11.34722,
+    16.93785
+],
+  "geometry": {"coordinates":[-11.34722,16.93785],"type":"Point"}
+}

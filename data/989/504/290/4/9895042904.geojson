@@ -1,0 +1,74 @@
+{
+  "id": 9895042904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45346,16.18994,-11.45346,16.18994",
+    "geom:latitude":16.18994,
+    "geom:longitude":-11.45346,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258376: name \"Ehel Ebakar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258376"
+        },
+        {
+            "citation":"GeoNames populated place 13258376: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258376"
+        },
+        {
+            "citation":"GeoNames populated place 13258376: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258376"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258376
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"998b835538a9e14c7a5e5244dff9d842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895042904,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895042904,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Ebakar",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45346,
+    16.18994,
+    -11.45346,
+    16.18994
+],
+  "geometry": {"coordinates":[-11.45346,16.18994],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895044762,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92851,15.81987,-6.92851,15.81987",
+    "geom:latitude":15.81987,
+    "geom:longitude":-6.92851,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354849: name \"Krae Ould Elhafedh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354849"
+        },
+        {
+            "citation":"GeoNames populated place 13354849: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354849"
+        },
+        {
+            "citation":"GeoNames populated place 13354849: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354849"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354849
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c2c610ba036dedc646c128f6900798bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895044762,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044762,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Krae Ould Elhafedh",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92851,
+    15.81987,
+    -6.92851,
+    15.81987
+],
+  "geometry": {"coordinates":[-6.92851,15.81987],"type":"Point"}
+}

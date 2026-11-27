@@ -1,0 +1,74 @@
+{
+  "id": 9895043414,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06938,16.75582,-11.06938,16.75582",
+    "geom:latitude":16.75582,
+    "geom:longitude":-11.06938,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258957: name \"Oum Agleila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258957"
+        },
+        {
+            "citation":"GeoNames populated place 13258957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258957"
+        },
+        {
+            "citation":"GeoNames populated place 13258957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258957"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258957
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b6c59204762e84630c48291cd745a40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043414,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043414,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Agleila",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06938,
+    16.75582,
+    -11.06938,
+    16.75582
+],
+  "geometry": {"coordinates":[-11.06938,16.75582],"type":"Point"}
+}

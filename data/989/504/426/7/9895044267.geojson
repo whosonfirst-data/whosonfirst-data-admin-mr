@@ -1,0 +1,74 @@
+{
+  "id": 9895044267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77778,16.45204,-12.77778,16.45204",
+    "geom:latitude":16.45204,
+    "geom:longitude":-12.77778,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316855: name \"Dar Esselama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316855"
+        },
+        {
+            "citation":"GeoNames populated place 13316855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316855"
+        },
+        {
+            "citation":"GeoNames populated place 13316855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316855"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695173 (Monguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316855
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a946f49e6cd7c25d0c0208a4089102b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695173,
+            "locality_id":9895044267,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044267,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dar Esselama",
+    "wof:parent_id":1091695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77778,
+    16.45204,
+    -12.77778,
+    16.45204
+],
+  "geometry": {"coordinates":[-12.77778,16.45204],"type":"Point"}
+}

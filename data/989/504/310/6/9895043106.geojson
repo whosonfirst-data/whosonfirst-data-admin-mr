@@ -1,0 +1,74 @@
+{
+  "id": 9895043106,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60095,17.07117,-12.60095,17.07117",
+    "geom:latitude":17.07117,
+    "geom:longitude":-12.60095,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258613: name \"Oum Eignine Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258613"
+        },
+        {
+            "citation":"GeoNames populated place 13258613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258613"
+        },
+        {
+            "citation":"GeoNames populated place 13258613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258613"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258613
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"a2319710cce9275783b5149b7b81c739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043106,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043106,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Eignine Deux",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60095,
+    17.07117,
+    -12.60095,
+    17.07117
+],
+  "geometry": {"coordinates":[-12.60095,17.07117],"type":"Point"}
+}

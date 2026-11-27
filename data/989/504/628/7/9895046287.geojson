@@ -1,0 +1,74 @@
+{
+  "id": 9895046287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97896,15.53256,-8.97896,15.53256",
+    "geom:latitude":15.53256,
+    "geom:longitude":-8.97896,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356483: name \"Legtoua Awlad Abdelwahed\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356483"
+        },
+        {
+            "citation":"GeoNames populated place 13356483: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356483"
+        },
+        {
+            "citation":"GeoNames populated place 13356483: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356483"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694947 (Kobeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356483
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"04bb5ed61add023927f78e50d0aba3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":9895046287,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895046287,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Legtoua Awlad Abdelwahed",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97896,
+    15.53256,
+    -8.97896,
+    15.53256
+],
+  "geometry": {"coordinates":[-8.97896,15.53256],"type":"Point"}
+}

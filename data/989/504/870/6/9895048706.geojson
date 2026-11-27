@@ -1,0 +1,74 @@
+{
+  "id": 9895048706,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99699,16.46754,-9.99699,16.46754",
+    "geom:latitude":16.46754,
+    "geom:longitude":-9.99699,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525225: name \"Nejah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525225"
+        },
+        {
+            "citation":"GeoNames populated place 13525225: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525225"
+        },
+        {
+            "citation":"GeoNames populated place 13525225: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525225"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695069 (Tintane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525225
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"034c3e8e1e83f5ef94e11625c01a04bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":9895048706,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048706,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Nejah",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99699,
+    16.46754,
+    -9.99699,
+    16.46754
+],
+  "geometry": {"coordinates":[-9.99699,16.46754],"type":"Point"}
+}

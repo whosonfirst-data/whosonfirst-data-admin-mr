@@ -1,0 +1,74 @@
+{
+  "id": 9895048346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53953,16.65174,-9.53953,16.65174",
+    "geom:latitude":16.65174,
+    "geom:longitude":-9.53953,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524862: name \"Elmenara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524862"
+        },
+        {
+            "citation":"GeoNames populated place 13524862: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524862"
+        },
+        {
+            "citation":"GeoNames populated place 13524862: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524862"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524862
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6d760a4f866cd4e5e4d7910c1d33e02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048346,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048346,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elmenara",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53953,
+    16.65174,
+    -9.53953,
+    16.65174
+],
+  "geometry": {"coordinates":[-9.53953,16.65174],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895044998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30624,16.51814,-8.30624,16.51814",
+    "geom:latitude":16.51814,
+    "geom:longitude":-8.30624,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355106: name \"Ndreinaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355106"
+        },
+        {
+            "citation":"GeoNames populated place 13355106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355106"
+        },
+        {
+            "citation":"GeoNames populated place 13355106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355106"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695261 (Timbedra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355106
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bbba1b9c4c50d3e365ad4b96cf2baf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695261,
+            "locality_id":9895044998,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044998,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ndreinaya",
+    "wof:parent_id":1091695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30624,
+    16.51814,
+    -8.30624,
+    16.51814
+],
+  "geometry": {"coordinates":[-8.30624,16.51814],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895042609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.97139,17.55527,-11.97139,17.55527",
+    "geom:latitude":17.55527,
+    "geom:longitude":-11.97139,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253027: name \"Tenguengay Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253027"
+        },
+        {
+            "citation":"GeoNames populated place 13253027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253027"
+        },
+        {
+            "citation":"GeoNames populated place 13253027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253027"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695647 (Moudjeria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253027
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c00787a1d6dc4723545dfc90da85a288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":9895042609,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042609,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tenguengay Deux",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.97139,
+    17.55527,
+    -11.97139,
+    17.55527
+],
+  "geometry": {"coordinates":[-11.97139,17.55527],"type":"Point"}
+}

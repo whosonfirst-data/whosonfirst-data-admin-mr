@@ -1,0 +1,74 @@
+{
+  "id": 9895043347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14772,16.75564,-11.14772,16.75564",
+    "geom:latitude":16.75564,
+    "geom:longitude":-11.14772,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258884: name \"Arweiji Guendour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258884"
+        },
+        {
+            "citation":"GeoNames populated place 13258884: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258884"
+        },
+        {
+            "citation":"GeoNames populated place 13258884: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258884"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258884
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b3281a7301a7403fee9a9e58ed4f7867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043347,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043347,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Arweiji Guendour",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14772,
+    16.75564,
+    -11.14772,
+    16.75564
+],
+  "geometry": {"coordinates":[-11.14772,16.75564],"type":"Point"}
+}

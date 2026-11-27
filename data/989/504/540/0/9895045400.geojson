@@ -1,0 +1,74 @@
+{
+  "id": 9895045400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29648,17.11401,-6.29648,17.11401",
+    "geom:latitude":17.11401,
+    "geom:longitude":-6.29648,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355540: name \"Lefouda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355540"
+        },
+        {
+            "citation":"GeoNames populated place 13355540: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355540"
+        },
+        {
+            "citation":"GeoNames populated place 13355540: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355540"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696039 (Oualata), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091696039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355540
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7321c936e87d5988d1a26ef70dbfd5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091696039,
+            "locality_id":9895045400,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045400,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lefouda",
+    "wof:parent_id":1091696039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29648,
+    17.11401,
+    -6.29648,
+    17.11401
+],
+  "geometry": {"coordinates":[-6.29648,17.11401],"type":"Point"}
+}

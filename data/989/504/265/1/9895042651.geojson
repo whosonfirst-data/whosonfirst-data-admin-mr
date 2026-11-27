@@ -1,0 +1,74 @@
+{
+  "id": 9895042651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.29627,18.327,-12.29627,18.327",
+    "geom:latitude":18.327,
+    "geom:longitude":-12.29627,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253081: name \"Ajar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253081"
+        },
+        {
+            "citation":"GeoNames populated place 13253081: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253081"
+        },
+        {
+            "citation":"GeoNames populated place 13253081: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253081"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695647 (Moudjeria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253081
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"afb0275a7a5044f1f47e376851b97129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695647,
+            "locality_id":9895042651,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042651,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ajar",
+    "wof:parent_id":1091695647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.29627,
+    18.327,
+    -12.29627,
+    18.327
+],
+  "geometry": {"coordinates":[-12.29627,18.327],"type":"Point"}
+}

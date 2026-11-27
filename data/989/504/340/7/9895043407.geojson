@@ -1,0 +1,74 @@
+{
+  "id": 9895043407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.34042,16.38271,-12.34042,16.38271",
+    "geom:latitude":16.38271,
+    "geom:longitude":-12.34042,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258950: name \"Oum Serwal Edebay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258950"
+        },
+        {
+            "citation":"GeoNames populated place 13258950: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258950"
+        },
+        {
+            "citation":"GeoNames populated place 13258950: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258950"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258950
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"6e1dfe8240a86df21ab42a214e1e8861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043407,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043407,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Serwal Edebay",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.34042,
+    16.38271,
+    -12.34042,
+    16.38271
+],
+  "geometry": {"coordinates":[-12.34042,16.38271],"type":"Point"}
+}

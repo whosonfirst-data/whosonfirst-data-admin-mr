@@ -1,0 +1,74 @@
+{
+  "id": 9895044238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6931,15.2018,-12.6931,15.2018",
+    "geom:latitude":15.2018,
+    "geom:longitude":-12.6931,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316825: name \"Longuel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316825"
+        },
+        {
+            "citation":"GeoNames populated place 13316825: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316825"
+        },
+        {
+            "citation":"GeoNames populated place 13316825: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316825"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694791 (Selibaby), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316825
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"38f9c1e971d0d9e08f1d85d93f23ff9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":9895044238,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044238,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Longuel",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6931,
+    15.2018,
+    -12.6931,
+    15.2018
+],
+  "geometry": {"coordinates":[-12.6931,15.2018],"type":"Point"}
+}

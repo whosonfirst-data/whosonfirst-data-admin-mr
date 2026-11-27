@@ -1,0 +1,74 @@
+{
+  "id": 9895047540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.02098,16.58236,-16.02098,16.58236",
+    "geom:latitude":16.58236,
+    "geom:longitude":-16.02098,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523509: name \"Awlig\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523509"
+        },
+        {
+            "citation":"GeoNames populated place 13523509: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523509"
+        },
+        {
+            "citation":"GeoNames populated place 13523509: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523509"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695227 (Keur-Macene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674881,
+        102191573,
+        1091695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523509
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"ae426581139a1d0d2983cd7c74a41e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695227,
+            "locality_id":9895047540,
+            "region_id":85674881
+        }
+    ],
+    "wof:id":9895047540,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Awlig",
+    "wof:parent_id":1091695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.02098,
+    16.58236,
+    -16.02098,
+    16.58236
+],
+  "geometry": {"coordinates":[-16.02098,16.58236],"type":"Point"}
+}

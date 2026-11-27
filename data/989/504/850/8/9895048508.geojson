@@ -1,0 +1,74 @@
+{
+  "id": 9895048508,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.019,16.43722,-9.019,16.43722",
+    "geom:latitude":16.43722,
+    "geom:longitude":-9.019,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13525026: name \"Dhahra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13525026"
+        },
+        {
+            "citation":"GeoNames populated place 13525026: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13525026"
+        },
+        {
+            "citation":"GeoNames populated place 13525026: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13525026"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695431 (Aioun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13525026
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"7710db49f304060c1d913bb48292b275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695431,
+            "locality_id":9895048508,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048508,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Dhahra",
+    "wof:parent_id":1091695431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.019,
+    16.43722,
+    -9.019,
+    16.43722
+],
+  "geometry": {"coordinates":[-9.019,16.43722],"type":"Point"}
+}

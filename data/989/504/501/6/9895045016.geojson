@@ -1,0 +1,74 @@
+{
+  "id": 9895045016,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83154,15.57078,-6.83154,15.57078",
+    "geom:latitude":15.57078,
+    "geom:longitude":-6.83154,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13355125: name \"Ehel Medou Ould Khairala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13355125"
+        },
+        {
+            "citation":"GeoNames populated place 13355125: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13355125"
+        },
+        {
+            "citation":"GeoNames populated place 13355125: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13355125"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13355125
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"fa9f23a4e4a6637644ae03058c4cfc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895045016,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895045016,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Medou Ould Khairala",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83154,
+    15.57078,
+    -6.83154,
+    15.57078
+],
+  "geometry": {"coordinates":[-6.83154,15.57078],"type":"Point"}
+}

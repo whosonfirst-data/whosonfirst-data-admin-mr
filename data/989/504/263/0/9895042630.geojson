@@ -1,0 +1,74 @@
+{
+  "id": 9895042630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.92252,18.42618,-11.92252,18.42618",
+    "geom:latitude":18.42618,
+    "geom:longitude":-11.92252,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253054: name \"El Vedra Un\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253054"
+        },
+        {
+            "citation":"GeoNames populated place 13253054: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253054"
+        },
+        {
+            "citation":"GeoNames populated place 13253054: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253054"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695733 (Tidjikja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674909,
+        102191573,
+        1091695733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253054
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1cbfdf56bf12aec3845bfddfd1eee1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695733,
+            "locality_id":9895042630,
+            "region_id":85674909
+        }
+    ],
+    "wof:id":9895042630,
+    "wof:lastmodified":1795734962,
+    "wof:name":"El Vedra Un",
+    "wof:parent_id":1091695733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.92252,
+    18.42618,
+    -11.92252,
+    18.42618
+],
+  "geometry": {"coordinates":[-11.92252,18.42618],"type":"Point"}
+}

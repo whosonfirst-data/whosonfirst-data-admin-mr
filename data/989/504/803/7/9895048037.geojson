@@ -1,0 +1,74 @@
+{
+  "id": 9895048037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99364,15.53859,-9.99364,15.53859",
+    "geom:latitude":15.53859,
+    "geom:longitude":-9.99364,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524548: name \"Areira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524548"
+        },
+        {
+            "citation":"GeoNames populated place 13524548: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524548"
+        },
+        {
+            "citation":"GeoNames populated place 13524548: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524548"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695069 (Tintane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524548
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"86731f144382cf095182738257cbf302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":9895048037,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048037,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Areira",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99364,
+    15.53859,
+    -9.99364,
+    15.53859
+],
+  "geometry": {"coordinates":[-9.99364,15.53859],"type":"Point"}
+}

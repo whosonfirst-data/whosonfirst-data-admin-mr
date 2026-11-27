@@ -1,0 +1,74 @@
+{
+  "id": 9895047767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.95012,16.65408,-14.95012,16.65408",
+    "geom:latitude":16.65408,
+    "geom:longitude":-14.95012,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523742: name \"Lexeiba Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523742"
+        },
+        {
+            "citation":"GeoNames populated place 13523742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523742"
+        },
+        {
+            "citation":"GeoNames populated place 13523742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695129 (Boghe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674863,
+        102191573,
+        1091695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523742
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b512368fdddb9476e5d4ba03422845e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695129,
+            "locality_id":9895047767,
+            "region_id":85674863
+        }
+    ],
+    "wof:id":9895047767,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lexeiba Deux",
+    "wof:parent_id":1091695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.95012,
+    16.65408,
+    -14.95012,
+    16.65408
+],
+  "geometry": {"coordinates":[-14.95012,16.65408],"type":"Point"}
+}

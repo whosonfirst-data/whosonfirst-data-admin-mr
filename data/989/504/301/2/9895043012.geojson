@@ -1,0 +1,74 @@
+{
+  "id": 9895043012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.73999,17.11868,-11.73999,17.11868",
+    "geom:latitude":17.11868,
+    "geom:longitude":-11.73999,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258505: name \"Ediel Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258505"
+        },
+        {
+            "citation":"GeoNames populated place 13258505: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258505"
+        },
+        {
+            "citation":"GeoNames populated place 13258505: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258505"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695415 (Kiffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258505
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"1170d555c8d754a0bc5b5761f2ac42ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695415,
+            "locality_id":9895043012,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043012,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ediel Deux",
+    "wof:parent_id":1091695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.73999,
+    17.11868,
+    -11.73999,
+    17.11868
+],
+  "geometry": {"coordinates":[-11.73999,17.11868],"type":"Point"}
+}

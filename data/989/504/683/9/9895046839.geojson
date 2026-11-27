@@ -1,0 +1,74 @@
+{
+  "id": 9895046839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99297,20.10755,-12.99297,20.10755",
+    "geom:latitude":20.10755,
+    "geom:longitude":-12.99297,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520576: name \"Legleib\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520576"
+        },
+        {
+            "citation":"GeoNames populated place 13520576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520576"
+        },
+        {
+            "citation":"GeoNames populated place 13520576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695825 (Aoujeft), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520576
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"170c8bf8c453da97ef9b7692dc52192e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695825,
+            "locality_id":9895046839,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046839,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Legleib",
+    "wof:parent_id":1091695825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99297,
+    20.10755,
+    -12.99297,
+    20.10755
+],
+  "geometry": {"coordinates":[-12.99297,20.10755],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895043146,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16336,15.6336,-11.16336,15.6336",
+    "geom:latitude":15.6336,
+    "geom:longitude":-11.16336,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258659: name \"Mbeiliz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258659"
+        },
+        {
+            "citation":"GeoNames populated place 13258659: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258659"
+        },
+        {
+            "citation":"GeoNames populated place 13258659: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258659"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258659
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"f16967f1a2a4bfc755ccc2e396a77b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895043146,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043146,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mbeiliz",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16336,
+    15.6336,
+    -11.16336,
+    15.6336
+],
+  "geometry": {"coordinates":[-11.16336,15.6336],"type":"Point"}
+}

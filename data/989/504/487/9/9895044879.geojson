@@ -1,0 +1,74 @@
+{
+  "id": 9895044879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74899,15.80003,-5.74899,15.80003",
+    "geom:latitude":15.80003,
+    "geom:longitude":-5.74899,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354976: name \"Seremassa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354976"
+        },
+        {
+            "citation":"GeoNames populated place 13354976: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354976"
+        },
+        {
+            "citation":"GeoNames populated place 13354976: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354976"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695193 (Bassikounou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354976
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"4874640bff568f733bef9c49222ac3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695193,
+            "locality_id":9895044879,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044879,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Seremassa",
+    "wof:parent_id":1091695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74899,
+    15.80003,
+    -5.74899,
+    15.80003
+],
+  "geometry": {"coordinates":[-5.74899,15.80003],"type":"Point"}
+}

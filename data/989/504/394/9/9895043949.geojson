@@ -1,0 +1,74 @@
+{
+  "id": 9895043949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.36945,15.85606,-12.36945,15.85606",
+    "geom:latitude":15.85606,
+    "geom:longitude":-12.36945,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316520: name \"Ehel Jdeidou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316520"
+        },
+        {
+            "citation":"GeoNames populated place 13316520: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316520"
+        },
+        {
+            "citation":"GeoNames populated place 13316520: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316520"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695009 (M'Bout), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316520
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"2ab0ffa1bfb1e3c1b6c9b45b6b3e98bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":9895043949,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895043949,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ehel Jdeidou",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.36945,
+    15.85606,
+    -12.36945,
+    15.85606
+],
+  "geometry": {"coordinates":[-12.36945,15.85606],"type":"Point"}
+}

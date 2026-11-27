@@ -1,0 +1,74 @@
+{
+  "id": 9895046808,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94647,20.56858,-12.94647,20.56858",
+    "geom:latitude":20.56858,
+    "geom:longitude":-12.94647,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520545: name \"Amdeyr Sghir Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520545"
+        },
+        {
+            "citation":"GeoNames populated place 13520545: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520545"
+        },
+        {
+            "citation":"GeoNames populated place 13520545: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520545"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520545
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"b2f3013dd6410e1c0a20382e3ca9a003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046808,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046808,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Amdeyr Sghir Deux",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94647,
+    20.56858,
+    -12.94647,
+    20.56858
+],
+  "geometry": {"coordinates":[-12.94647,20.56858],"type":"Point"}
+}

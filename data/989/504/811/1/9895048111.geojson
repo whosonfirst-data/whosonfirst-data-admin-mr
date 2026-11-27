@@ -1,0 +1,74 @@
+{
+  "id": 9895048111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.59393,16.1952,-10.59393,16.1952",
+    "geom:latitude":16.1952,
+    "geom:longitude":-10.59393,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524623: name \"Oum Aguweinitte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524623"
+        },
+        {
+            "citation":"GeoNames populated place 13524623: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524623"
+        },
+        {
+            "citation":"GeoNames populated place 13524623: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524623"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695069 (Tintane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091695069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524623
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d1524b2e7a727d1ecae9b54a15b9e9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695069,
+            "locality_id":9895048111,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048111,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Oum Aguweinitte",
+    "wof:parent_id":1091695069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.59393,
+    16.1952,
+    -10.59393,
+    16.1952
+],
+  "geometry": {"coordinates":[-10.59393,16.1952],"type":"Point"}
+}

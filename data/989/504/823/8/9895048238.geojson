@@ -1,0 +1,74 @@
+{
+  "id": 9895048238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52082,15.56219,-9.52082,15.56219",
+    "geom:latitude":15.56219,
+    "geom:longitude":-9.52082,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13524751: name \"Aghassar Afachil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13524751"
+        },
+        {
+            "citation":"GeoNames populated place 13524751: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13524751"
+        },
+        {
+            "citation":"GeoNames populated place 13524751: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13524751"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694947 (Kobeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674905,
+        102191573,
+        1091694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13524751
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"98d0157f86c2af14be9603248a21ba05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694947,
+            "locality_id":9895048238,
+            "region_id":85674905
+        }
+    ],
+    "wof:id":9895048238,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Aghassar Afachil",
+    "wof:parent_id":1091694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52082,
+    15.56219,
+    -9.52082,
+    15.56219
+],
+  "geometry": {"coordinates":[-9.52082,15.56219],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895044552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9057,15.18093,-11.9057,15.18093",
+    "geom:latitude":15.18093,
+    "geom:longitude":-11.9057,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350565: name \"Amaga Ehel Mokhtar Ould Boubakar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350565"
+        },
+        {
+            "citation":"GeoNames populated place 13350565: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350565"
+        },
+        {
+            "citation":"GeoNames populated place 13350565: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350565"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694791 (Selibaby), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350565
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"d12a324040eeb003bbf3248a8c31fdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":9895044552,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044552,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Amaga Ehel Mokhtar Ould Boubakar",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9057,
+    15.18093,
+    -11.9057,
+    15.18093
+],
+  "geometry": {"coordinates":[-11.9057,15.18093],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895046217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35269,15.80079,-7.35269,15.80079",
+    "geom:latitude":15.80079,
+    "geom:longitude":-7.35269,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13356408: name \"Nour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13356408"
+        },
+        {
+            "citation":"GeoNames populated place 13356408: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13356408"
+        },
+        {
+            "citation":"GeoNames populated place 13356408: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13356408"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694873 (Amourj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13356408
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"37325bc90499808c5735a1362d53faf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694873,
+            "locality_id":9895046217,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895046217,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Nour",
+    "wof:parent_id":1091694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35269,
+    15.80079,
+    -7.35269,
+    15.80079
+],
+  "geometry": {"coordinates":[-7.35269,15.80079],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895043262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81088,16.80646,-12.81088,16.80646",
+    "geom:latitude":16.80646,
+    "geom:longitude":-12.81088,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258792: name \"Matoughadar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258792"
+        },
+        {
+            "citation":"GeoNames populated place 13258792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258792"
+        },
+        {
+            "citation":"GeoNames populated place 13258792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258792"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695353 (Barkeol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258792
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"c7d26cd685a4da2b270dfff4be61194f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695353,
+            "locality_id":9895043262,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043262,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Matoughadar",
+    "wof:parent_id":1091695353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81088,
+    16.80646,
+    -12.81088,
+    16.80646
+],
+  "geometry": {"coordinates":[-12.81088,16.80646],"type":"Point"}
+}

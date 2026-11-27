@@ -1,0 +1,74 @@
+{
+  "id": 9895044103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25225,16.16976,-12.25225,16.16976",
+    "geom:latitude":16.16976,
+    "geom:longitude":-12.25225,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13316682: name \"Ejeiche\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13316682"
+        },
+        {
+            "citation":"GeoNames populated place 13316682: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13316682"
+        },
+        {
+            "citation":"GeoNames populated place 13316682: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13316682"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695009 (M'Bout), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674891,
+        102191573,
+        1091695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13316682
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"badc540496b69d7fed3feb680800d2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695009,
+            "locality_id":9895044103,
+            "region_id":85674891
+        }
+    ],
+    "wof:id":9895044103,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ejeiche",
+    "wof:parent_id":1091695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25225,
+    16.16976,
+    -12.25225,
+    16.16976
+],
+  "geometry": {"coordinates":[-12.25225,16.16976],"type":"Point"}
+}

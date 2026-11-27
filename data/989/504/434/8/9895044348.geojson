@@ -1,0 +1,74 @@
+{
+  "id": 9895044348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0012,15.93334,-12.0012,15.93334",
+    "geom:latitude":15.93334,
+    "geom:longitude":-12.0012,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13350356: name \"Kelou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13350356"
+        },
+        {
+            "citation":"GeoNames populated place 13350356: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13350356"
+        },
+        {
+            "citation":"GeoNames populated place 13350356: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13350356"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694841 (Ould Yenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674887,
+        102191573,
+        1091694841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13350356
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8ca56b170c33b137625e82d41655379c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694841,
+            "locality_id":9895044348,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":9895044348,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kelou",
+    "wof:parent_id":1091694841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0012,
+    15.93334,
+    -12.0012,
+    15.93334
+],
+  "geometry": {"coordinates":[-12.0012,15.93334],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895043361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03625,15.49185,-11.03625,15.49185",
+    "geom:latitude":15.49185,
+    "geom:longitude":-11.03625,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13258902: name \"Tachott Keyoutt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13258902"
+        },
+        {
+            "citation":"GeoNames populated place 13258902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13258902"
+        },
+        {
+            "citation":"GeoNames populated place 13258902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13258902"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091694911 (Kankossa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674885,
+        102191573,
+        1091694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13258902
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"bb30e39365925240b2e10c573d777668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694911,
+            "locality_id":9895043361,
+            "region_id":85674885
+        }
+    ],
+    "wof:id":9895043361,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tachott Keyoutt",
+    "wof:parent_id":1091694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03625,
+    15.49185,
+    -11.03625,
+    15.49185
+],
+  "geometry": {"coordinates":[-11.03625,15.49185],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895046666,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.53019,19.89709,-13.53019,19.89709",
+    "geom:latitude":19.89709,
+    "geom:longitude":-13.53019,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13520402: name \"Tenchela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13520402"
+        },
+        {
+            "citation":"GeoNames populated place 13520402: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13520402"
+        },
+        {
+            "citation":"GeoNames populated place 13520402: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13520402"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695981 (Atar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674899,
+        102191573,
+        1091695981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13520402
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"8ddf0d84e2fe29e81548da034b8eecd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695981,
+            "locality_id":9895046666,
+            "region_id":85674899
+        }
+    ],
+    "wof:id":9895046666,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Tenchela",
+    "wof:parent_id":1091695981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.53019,
+    19.89709,
+    -13.53019,
+    19.89709
+],
+  "geometry": {"coordinates":[-13.53019,19.89709],"type":"Point"}
+}

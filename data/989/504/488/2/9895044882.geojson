@@ -1,0 +1,74 @@
+{
+  "id": 9895044882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31839,16.23982,-7.31839,16.23982",
+    "geom:latitude":16.23982,
+    "geom:longitude":-7.31839,
+    "iso:country":"MR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13354979: name \"Chelkhett Cheikh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13354979"
+        },
+        {
+            "citation":"GeoNames populated place 13354979: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13354979"
+        },
+        {
+            "citation":"GeoNames populated place 13354979: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13354979"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091695295 (Nema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632679,
+        85674901,
+        102191573,
+        1091695295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13354979
+    },
+    "wof:country":"MR",
+    "wof:geomhash":"500d40de623971467f907594430c4867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091695295,
+            "locality_id":9895044882,
+            "region_id":85674901
+        }
+    ],
+    "wof:id":9895044882,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Chelkhett Cheikh",
+    "wof:parent_id":1091695295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31839,
+    16.23982,
+    -7.31839,
+    16.23982
+],
+  "geometry": {"coordinates":[-7.31839,16.23982],"type":"Point"}
+}
